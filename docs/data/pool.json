@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-03-27T13:46:35.794543+00:00",
+  "exported_at": "2026-03-27T23:22:44.249566+00:00",
   "meta": {
     "pool_name": "Temple's Madness Survivor Pool 2026",
     "season": 2026,
@@ -7,10 +7,10 @@
     "total_players": 110,
     "alive_players": 45,
     "eliminated_players": 65,
-    "current_day": 5,
+    "current_day": 6,
     "total_days": 10,
     "pot": 2750,
-    "last_updated": "2026-03-27T13:46:35.794558+00:00"
+    "last_updated": "2026-03-27T23:22:44.249582+00:00"
   },
   "team_seeds": {
     "Akron": 12,
@@ -528,6 +528,50 @@
         "survivors": 45,
         "eliminated": 65
       }
+    },
+    {
+      "day": 6,
+      "date": "2026-03-27",
+      "label": "Sweet 16 - Day 2",
+      "status": "pending",
+      "available_teams": [
+        "Alabama",
+        "Duke",
+        "Iowa State",
+        "Michigan",
+        "Michigan State",
+        "St. John's",
+        "Tennessee",
+        "UConn"
+      ],
+      "winners": [],
+      "losers": [],
+      "upsets": [],
+      "stats": {
+        "most_picked_today": {
+          "team": "Iowa State",
+          "count": 23,
+          "result": "pending"
+        },
+        "biggest_degen_pick": {
+          "player": "Jack Meara",
+          "team": "Tennessee",
+          "seed": 6,
+          "result": "pending"
+        },
+        "deadliest_team": {
+          "team": "—",
+          "kills": 0,
+          "seed": 0
+        },
+        "chalk_king": {
+          "player": "—",
+          "team": "—",
+          "seed": 0
+        },
+        "survivors": 45,
+        "eliminated": 65
+      }
     }
   ],
   "players": [
@@ -566,6 +610,12 @@
           "team": "Iowa",
           "seed": 9,
           "result": "win"
+        },
+        {
+          "day": 6,
+          "team": "Iowa State",
+          "seed": 2,
+          "result": "pending"
         }
       ]
     },
@@ -604,6 +654,12 @@
           "team": "Iowa",
           "seed": 9,
           "result": "win"
+        },
+        {
+          "day": 6,
+          "team": "Iowa State",
+          "seed": 2,
+          "result": "pending"
         }
       ]
     },
@@ -642,6 +698,12 @@
           "team": "Iowa",
           "seed": 9,
           "result": "win"
+        },
+        {
+          "day": 6,
+          "team": "Iowa State",
+          "seed": 2,
+          "result": "pending"
         }
       ]
     },
@@ -680,6 +742,12 @@
           "team": "Iowa",
           "seed": 9,
           "result": "win"
+        },
+        {
+          "day": 6,
+          "team": "Iowa State",
+          "seed": 2,
+          "result": "pending"
         }
       ]
     },
@@ -718,6 +786,12 @@
           "team": "Purdue",
           "seed": 2,
           "result": "win"
+        },
+        {
+          "day": 6,
+          "team": "Iowa State",
+          "seed": 2,
+          "result": "pending"
         }
       ]
     },
@@ -756,6 +830,12 @@
           "team": "Iowa",
           "seed": 9,
           "result": "win"
+        },
+        {
+          "day": 6,
+          "team": "Iowa State",
+          "seed": 2,
+          "result": "pending"
         }
       ]
     },
@@ -794,6 +874,12 @@
           "team": "Iowa",
           "seed": 9,
           "result": "win"
+        },
+        {
+          "day": 6,
+          "team": "Iowa State",
+          "seed": 2,
+          "result": "pending"
         }
       ]
     },
@@ -832,6 +918,12 @@
           "team": "Iowa",
           "seed": 9,
           "result": "win"
+        },
+        {
+          "day": 6,
+          "team": "Duke",
+          "seed": 1,
+          "result": "pending"
         }
       ]
     },
@@ -870,6 +962,12 @@
           "team": "Iowa",
           "seed": 9,
           "result": "win"
+        },
+        {
+          "day": 6,
+          "team": "Iowa State",
+          "seed": 2,
+          "result": "pending"
         }
       ]
     },
@@ -908,6 +1006,12 @@
           "team": "Iowa",
           "seed": 9,
           "result": "win"
+        },
+        {
+          "day": 6,
+          "team": "Tennessee",
+          "seed": 6,
+          "result": "pending"
         }
       ]
     },
@@ -946,6 +1050,12 @@
           "team": "Iowa",
           "seed": 9,
           "result": "win"
+        },
+        {
+          "day": 6,
+          "team": "Iowa State",
+          "seed": 2,
+          "result": "pending"
         }
       ]
     },
@@ -984,6 +1094,12 @@
           "team": "Iowa",
           "seed": 9,
           "result": "win"
+        },
+        {
+          "day": 6,
+          "team": "Iowa State",
+          "seed": 2,
+          "result": "pending"
         }
       ]
     },
@@ -1022,6 +1138,12 @@
           "team": "Purdue",
           "seed": 2,
           "result": "win"
+        },
+        {
+          "day": 6,
+          "team": "Iowa State",
+          "seed": 2,
+          "result": "pending"
         }
       ]
     },
@@ -1060,6 +1182,12 @@
           "team": "Iowa",
           "seed": 9,
           "result": "win"
+        },
+        {
+          "day": 6,
+          "team": "Iowa State",
+          "seed": 2,
+          "result": "pending"
         }
       ]
     },
@@ -1098,6 +1226,12 @@
           "team": "Iowa",
           "seed": 9,
           "result": "win"
+        },
+        {
+          "day": 6,
+          "team": "Tennessee",
+          "seed": 6,
+          "result": "pending"
         }
       ]
     },
@@ -1136,6 +1270,12 @@
           "team": "Purdue",
           "seed": 2,
           "result": "win"
+        },
+        {
+          "day": 6,
+          "team": "Iowa State",
+          "seed": 2,
+          "result": "pending"
         }
       ]
     },
@@ -1174,6 +1314,12 @@
           "team": "Purdue",
           "seed": 2,
           "result": "win"
+        },
+        {
+          "day": 6,
+          "team": "UConn",
+          "seed": 2,
+          "result": "pending"
         }
       ]
     },
@@ -1212,6 +1358,12 @@
           "team": "Purdue",
           "seed": 2,
           "result": "win"
+        },
+        {
+          "day": 6,
+          "team": "Iowa State",
+          "seed": 2,
+          "result": "pending"
         }
       ]
     },
@@ -1250,6 +1402,12 @@
           "team": "Iowa",
           "seed": 9,
           "result": "win"
+        },
+        {
+          "day": 6,
+          "team": "Tennessee",
+          "seed": 6,
+          "result": "pending"
         }
       ]
     },
@@ -1288,6 +1446,12 @@
           "team": "Purdue",
           "seed": 2,
           "result": "win"
+        },
+        {
+          "day": 6,
+          "team": "Michigan State",
+          "seed": 3,
+          "result": "pending"
         }
       ]
     },
@@ -1326,6 +1490,12 @@
           "team": "Purdue",
           "seed": 2,
           "result": "win"
+        },
+        {
+          "day": 6,
+          "team": "Duke",
+          "seed": 1,
+          "result": "pending"
         }
       ]
     },
@@ -1364,6 +1534,12 @@
           "team": "Iowa",
           "seed": 9,
           "result": "win"
+        },
+        {
+          "day": 6,
+          "team": "Iowa State",
+          "seed": 2,
+          "result": "pending"
         }
       ]
     },
@@ -1402,6 +1578,12 @@
           "team": "Purdue",
           "seed": 2,
           "result": "win"
+        },
+        {
+          "day": 6,
+          "team": "Michigan",
+          "seed": 1,
+          "result": "pending"
         }
       ]
     },
@@ -1440,6 +1622,12 @@
           "team": "Illinois",
           "seed": 3,
           "result": "win"
+        },
+        {
+          "day": 6,
+          "team": "Iowa State",
+          "seed": 2,
+          "result": "pending"
         }
       ]
     },
@@ -1478,6 +1666,12 @@
           "team": "Purdue",
           "seed": 2,
           "result": "win"
+        },
+        {
+          "day": 6,
+          "team": "Michigan State",
+          "seed": 3,
+          "result": "pending"
         }
       ]
     },
@@ -1516,6 +1710,12 @@
           "team": "Purdue",
           "seed": 2,
           "result": "win"
+        },
+        {
+          "day": 6,
+          "team": "Iowa State",
+          "seed": 2,
+          "result": "pending"
         }
       ]
     },
@@ -1554,6 +1754,12 @@
           "team": "Purdue",
           "seed": 2,
           "result": "win"
+        },
+        {
+          "day": 6,
+          "team": "Iowa State",
+          "seed": 2,
+          "result": "pending"
         }
       ]
     },
@@ -1592,6 +1798,12 @@
           "team": "Purdue",
           "seed": 2,
           "result": "win"
+        },
+        {
+          "day": 6,
+          "team": "Michigan State",
+          "seed": 3,
+          "result": "pending"
         }
       ]
     },
@@ -1630,6 +1842,12 @@
           "team": "Purdue",
           "seed": 2,
           "result": "win"
+        },
+        {
+          "day": 6,
+          "team": "Michigan",
+          "seed": 1,
+          "result": "pending"
         }
       ]
     },
@@ -1668,6 +1886,12 @@
           "team": "Arizona",
           "seed": 1,
           "result": "win"
+        },
+        {
+          "day": 6,
+          "team": "Michigan",
+          "seed": 1,
+          "result": "pending"
         }
       ]
     },
@@ -1706,6 +1930,12 @@
           "team": "Purdue",
           "seed": 2,
           "result": "win"
+        },
+        {
+          "day": 6,
+          "team": "Michigan",
+          "seed": 1,
+          "result": "pending"
         }
       ]
     },
@@ -1744,6 +1974,12 @@
           "team": "Purdue",
           "seed": 2,
           "result": "win"
+        },
+        {
+          "day": 6,
+          "team": "Iowa State",
+          "seed": 2,
+          "result": "pending"
         }
       ]
     },
@@ -1782,6 +2018,12 @@
           "team": "Arizona",
           "seed": 1,
           "result": "win"
+        },
+        {
+          "day": 6,
+          "team": "Michigan",
+          "seed": 1,
+          "result": "pending"
         }
       ]
     },
@@ -1820,6 +2062,12 @@
           "team": "Arizona",
           "seed": 1,
           "result": "win"
+        },
+        {
+          "day": 6,
+          "team": "Iowa State",
+          "seed": 2,
+          "result": "pending"
         }
       ]
     },
@@ -1858,6 +2106,12 @@
           "team": "Purdue",
           "seed": 2,
           "result": "win"
+        },
+        {
+          "day": 6,
+          "team": "Michigan State",
+          "seed": 3,
+          "result": "pending"
         }
       ]
     },
@@ -1896,6 +2150,12 @@
           "team": "Arizona",
           "seed": 1,
           "result": "win"
+        },
+        {
+          "day": 6,
+          "team": "Michigan",
+          "seed": 1,
+          "result": "pending"
         }
       ]
     },
@@ -1934,6 +2194,12 @@
           "team": "Purdue",
           "seed": 2,
           "result": "win"
+        },
+        {
+          "day": 6,
+          "team": "Michigan State",
+          "seed": 3,
+          "result": "pending"
         }
       ]
     },
@@ -1972,6 +2238,12 @@
           "team": "Arizona",
           "seed": 1,
           "result": "win"
+        },
+        {
+          "day": 6,
+          "team": "Duke",
+          "seed": 1,
+          "result": "pending"
         }
       ]
     },
@@ -2010,6 +2282,12 @@
           "team": "Purdue",
           "seed": 2,
           "result": "win"
+        },
+        {
+          "day": 6,
+          "team": "UConn",
+          "seed": 2,
+          "result": "pending"
         }
       ]
     },
@@ -2048,6 +2326,12 @@
           "team": "Illinois",
           "seed": 3,
           "result": "win"
+        },
+        {
+          "day": 6,
+          "team": "Iowa State",
+          "seed": 2,
+          "result": "pending"
         }
       ]
     },
@@ -2086,6 +2370,12 @@
           "team": "Purdue",
           "seed": 2,
           "result": "win"
+        },
+        {
+          "day": 6,
+          "team": "Michigan",
+          "seed": 1,
+          "result": "pending"
         }
       ]
     },
@@ -2124,6 +2414,12 @@
           "team": "Purdue",
           "seed": 2,
           "result": "win"
+        },
+        {
+          "day": 6,
+          "team": "Iowa State",
+          "seed": 2,
+          "result": "pending"
         }
       ]
     },
@@ -2162,6 +2458,12 @@
           "team": "Purdue",
           "seed": 2,
           "result": "win"
+        },
+        {
+          "day": 6,
+          "team": "Duke",
+          "seed": 1,
+          "result": "pending"
         }
       ]
     },
@@ -2200,6 +2502,12 @@
           "team": "Purdue",
           "seed": 2,
           "result": "win"
+        },
+        {
+          "day": 6,
+          "team": "Michigan State",
+          "seed": 3,
+          "result": "pending"
         }
       ]
     },
@@ -2238,6 +2546,12 @@
           "team": "Purdue",
           "seed": 2,
           "result": "win"
+        },
+        {
+          "day": 6,
+          "team": "Iowa State",
+          "seed": 2,
+          "result": "pending"
         }
       ]
     },
