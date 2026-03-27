@@ -1,16 +1,16 @@
 {
-  "exported_at": "2026-03-26T23:11:31.290094+00:00",
+  "exported_at": "2026-03-27T13:46:35.794543+00:00",
   "meta": {
     "pool_name": "Temple's Madness Survivor Pool 2026",
     "season": 2026,
     "entry_fee": 25,
     "total_players": 110,
-    "alive_players": 69,
-    "eliminated_players": 41,
+    "alive_players": 45,
+    "eliminated_players": 65,
     "current_day": 5,
     "total_days": 10,
     "pot": 2750,
-    "last_updated": "2026-03-26T23:11:31.290108+00:00"
+    "last_updated": "2026-03-27T13:46:35.794558+00:00"
   },
   "team_seeds": {
     "Akron": 12,
@@ -198,9 +198,9 @@
           "seed": 5
         },
         "chalk_king": {
-          "player": "Pete Shahid",
-          "team": "Duke",
-          "seed": 1
+          "player": "Sarah Moore",
+          "team": "Houston",
+          "seed": 2
         },
         "survivors": 94,
         "eliminated": 16
@@ -289,7 +289,7 @@
           "result": "win"
         },
         "biggest_degen_pick": {
-          "player": "David Schultz",
+          "player": "Jimmy Erickson",
           "team": "UCLA",
           "seed": 7,
           "result": "win"
@@ -300,8 +300,8 @@
           "seed": 0
         },
         "chalk_king": {
-          "player": "Nolan Dickinson",
-          "team": "UConn",
+          "player": "Gus Nielsen",
+          "team": "Purdue",
           "seed": 2
         },
         "survivors": 94,
@@ -366,8 +366,8 @@
           "result": "win"
         },
         "biggest_degen_pick": {
-          "player": "David Schultz",
-          "team": "Arkansas",
+          "player": "Alexa DellaTorre",
+          "team": "Nebraska",
           "seed": 4,
           "result": "win"
         },
@@ -377,7 +377,7 @@
           "seed": 3
         },
         "chalk_king": {
-          "player": "Jim Shuman",
+          "player": "Marshall Keppel",
           "team": "Duke",
           "seed": 1
         },
@@ -460,7 +460,7 @@
           "seed": 1
         },
         "chalk_king": {
-          "player": "David Plump",
+          "player": "Kenny Maher",
           "team": "Arizona",
           "seed": 1
         },
@@ -472,7 +472,7 @@
       "day": 5,
       "date": "2026-03-26",
       "label": "Sweet 16 - Day 1",
-      "status": "pending",
+      "status": "final",
       "available_teams": [
         "Arizona",
         "Arkansas",
@@ -483,41 +483,1768 @@
         "Purdue",
         "Texas"
       ],
-      "winners": [],
-      "losers": [],
-      "upsets": [],
+      "winners": [
+        "Arizona",
+        "Illinois",
+        "Iowa",
+        "Purdue"
+      ],
+      "losers": [
+        "Arkansas",
+        "Houston",
+        "Nebraska",
+        "Texas"
+      ],
+      "upsets": [
+        {
+          "winner": "Iowa",
+          "winner_seed": 9,
+          "loser": "Nebraska",
+          "loser_seed": 4
+        }
+      ],
       "stats": {
         "most_picked_today": {
           "team": "Purdue",
           "count": 23,
-          "result": "pending"
+          "result": "win"
         },
         "biggest_degen_pick": {
-          "player": "David Rosenthal",
-          "team": "Texas",
-          "seed": 11,
-          "result": "pending"
+          "player": "Alexa DellaTorre",
+          "team": "Iowa",
+          "seed": 9,
+          "result": "win"
         },
         "deadliest_team": {
-          "team": "—",
-          "kills": 0,
-          "seed": 0
+          "team": "Nebraska",
+          "kills": 19,
+          "seed": 4
         },
         "chalk_king": {
-          "player": "—",
-          "team": "—",
-          "seed": 0
+          "player": "Sarah Gray Moore",
+          "team": "Arizona",
+          "seed": 1
         },
-        "survivors": 69,
-        "eliminated": 41
+        "survivors": 45,
+        "eliminated": 65
       }
     }
   ],
   "players": [
     {
-      "name": "David Schultz",
+      "name": "Alexa DellaTorre",
       "status": "alive",
       "rank": 1,
+      "degen_score": 25,
+      "picks": [
+        {
+          "day": 1,
+          "team": "Vanderbilt",
+          "seed": 5,
+          "result": "win"
+        },
+        {
+          "day": 2,
+          "team": "Texas Tech",
+          "seed": 5,
+          "result": "win"
+        },
+        {
+          "day": 3,
+          "team": "Nebraska",
+          "seed": 4,
+          "result": "win"
+        },
+        {
+          "day": 4,
+          "team": "UConn",
+          "seed": 2,
+          "result": "win"
+        },
+        {
+          "day": 5,
+          "team": "Iowa",
+          "seed": 9,
+          "result": "win"
+        }
+      ]
+    },
+    {
+      "name": "Brandon Petillo",
+      "status": "alive",
+      "rank": 2,
+      "degen_score": 25,
+      "picks": [
+        {
+          "day": 1,
+          "team": "Nebraska",
+          "seed": 4,
+          "result": "win"
+        },
+        {
+          "day": 2,
+          "team": "Kansas",
+          "seed": 4,
+          "result": "win"
+        },
+        {
+          "day": 3,
+          "team": "Illinois",
+          "seed": 3,
+          "result": "win"
+        },
+        {
+          "day": 4,
+          "team": "St. John's",
+          "seed": 5,
+          "result": "win"
+        },
+        {
+          "day": 5,
+          "team": "Iowa",
+          "seed": 9,
+          "result": "win"
+        }
+      ]
+    },
+    {
+      "name": "Gillum Ferguson",
+      "status": "alive",
+      "rank": 3,
+      "degen_score": 25,
+      "picks": [
+        {
+          "day": 1,
+          "team": "Nebraska",
+          "seed": 4,
+          "result": "win"
+        },
+        {
+          "day": 2,
+          "team": "Kansas",
+          "seed": 4,
+          "result": "win"
+        },
+        {
+          "day": 3,
+          "team": "Arkansas",
+          "seed": 4,
+          "result": "win"
+        },
+        {
+          "day": 4,
+          "team": "Alabama",
+          "seed": 4,
+          "result": "win"
+        },
+        {
+          "day": 5,
+          "team": "Iowa",
+          "seed": 9,
+          "result": "win"
+        }
+      ]
+    },
+    {
+      "name": "Seton Parsons",
+      "status": "alive",
+      "rank": 4,
+      "degen_score": 25,
+      "picks": [
+        {
+          "day": 1,
+          "team": "Vanderbilt",
+          "seed": 5,
+          "result": "win"
+        },
+        {
+          "day": 2,
+          "team": "St. John's",
+          "seed": 5,
+          "result": "win"
+        },
+        {
+          "day": 3,
+          "team": "Arkansas",
+          "seed": 4,
+          "result": "win"
+        },
+        {
+          "day": 4,
+          "team": "Purdue",
+          "seed": 2,
+          "result": "win"
+        },
+        {
+          "day": 5,
+          "team": "Iowa",
+          "seed": 9,
+          "result": "win"
+        }
+      ]
+    },
+    {
+      "name": "Jimmy Erickson",
+      "status": "alive",
+      "rank": 5,
+      "degen_score": 24,
+      "picks": [
+        {
+          "day": 1,
+          "team": "TCU",
+          "seed": 9,
+          "result": "win"
+        },
+        {
+          "day": 2,
+          "team": "UCLA",
+          "seed": 7,
+          "result": "win"
+        },
+        {
+          "day": 3,
+          "team": "Arkansas",
+          "seed": 4,
+          "result": "win"
+        },
+        {
+          "day": 4,
+          "team": "UConn",
+          "seed": 2,
+          "result": "win"
+        },
+        {
+          "day": 5,
+          "team": "Purdue",
+          "seed": 2,
+          "result": "win"
+        }
+      ]
+    },
+    {
+      "name": "Kenny Maher",
+      "status": "alive",
+      "rank": 6,
+      "degen_score": 24,
+      "picks": [
+        {
+          "day": 1,
+          "team": "Vanderbilt",
+          "seed": 5,
+          "result": "win"
+        },
+        {
+          "day": 2,
+          "team": "St. John's",
+          "seed": 5,
+          "result": "win"
+        },
+        {
+          "day": 3,
+          "team": "Arkansas",
+          "seed": 4,
+          "result": "win"
+        },
+        {
+          "day": 4,
+          "team": "Arizona",
+          "seed": 1,
+          "result": "win"
+        },
+        {
+          "day": 5,
+          "team": "Iowa",
+          "seed": 9,
+          "result": "win"
+        }
+      ]
+    },
+    {
+      "name": "Ryan Hallisey",
+      "status": "alive",
+      "rank": 7,
+      "degen_score": 24,
+      "picks": [
+        {
+          "day": 1,
+          "team": "Arkansas",
+          "seed": 4,
+          "result": "win"
+        },
+        {
+          "day": 2,
+          "team": "Virginia",
+          "seed": 3,
+          "result": "win"
+        },
+        {
+          "day": 3,
+          "team": "Michigan State",
+          "seed": 3,
+          "result": "win"
+        },
+        {
+          "day": 4,
+          "team": "St. John's",
+          "seed": 5,
+          "result": "win"
+        },
+        {
+          "day": 5,
+          "team": "Iowa",
+          "seed": 9,
+          "result": "win"
+        }
+      ]
+    },
+    {
+      "name": "Toofer Moore",
+      "status": "alive",
+      "rank": 8,
+      "degen_score": 23,
+      "picks": [
+        {
+          "day": 1,
+          "team": "Nebraska",
+          "seed": 4,
+          "result": "win"
+        },
+        {
+          "day": 2,
+          "team": "Texas Tech",
+          "seed": 5,
+          "result": "win"
+        },
+        {
+          "day": 3,
+          "team": "Illinois",
+          "seed": 3,
+          "result": "win"
+        },
+        {
+          "day": 4,
+          "team": "Purdue",
+          "seed": 2,
+          "result": "win"
+        },
+        {
+          "day": 5,
+          "team": "Iowa",
+          "seed": 9,
+          "result": "win"
+        }
+      ]
+    },
+    {
+      "name": "Andrew Madigan",
+      "status": "alive",
+      "rank": 9,
+      "degen_score": 22,
+      "picks": [
+        {
+          "day": 1,
+          "team": "Illinois",
+          "seed": 3,
+          "result": "win"
+        },
+        {
+          "day": 2,
+          "team": "Kansas",
+          "seed": 4,
+          "result": "win"
+        },
+        {
+          "day": 3,
+          "team": "Arkansas",
+          "seed": 4,
+          "result": "win"
+        },
+        {
+          "day": 4,
+          "team": "UConn",
+          "seed": 2,
+          "result": "win"
+        },
+        {
+          "day": 5,
+          "team": "Iowa",
+          "seed": 9,
+          "result": "win"
+        }
+      ]
+    },
+    {
+      "name": "Jack Meara",
+      "status": "alive",
+      "rank": 10,
+      "degen_score": 22,
+      "picks": [
+        {
+          "day": 1,
+          "team": "Arkansas",
+          "seed": 4,
+          "result": "win"
+        },
+        {
+          "day": 2,
+          "team": "Alabama",
+          "seed": 4,
+          "result": "win"
+        },
+        {
+          "day": 3,
+          "team": "Illinois",
+          "seed": 3,
+          "result": "win"
+        },
+        {
+          "day": 4,
+          "team": "Purdue",
+          "seed": 2,
+          "result": "win"
+        },
+        {
+          "day": 5,
+          "team": "Iowa",
+          "seed": 9,
+          "result": "win"
+        }
+      ]
+    },
+    {
+      "name": "Sundeep Kulkarni",
+      "status": "alive",
+      "rank": 11,
+      "degen_score": 22,
+      "picks": [
+        {
+          "day": 1,
+          "team": "Arkansas",
+          "seed": 4,
+          "result": "win"
+        },
+        {
+          "day": 2,
+          "team": "St. John's",
+          "seed": 5,
+          "result": "win"
+        },
+        {
+          "day": 3,
+          "team": "Illinois",
+          "seed": 3,
+          "result": "win"
+        },
+        {
+          "day": 4,
+          "team": "Arizona",
+          "seed": 1,
+          "result": "win"
+        },
+        {
+          "day": 5,
+          "team": "Iowa",
+          "seed": 9,
+          "result": "win"
+        }
+      ]
+    },
+    {
+      "name": "Jordan Gelband",
+      "status": "alive",
+      "rank": 12,
+      "degen_score": 21,
+      "picks": [
+        {
+          "day": 1,
+          "team": "Michigan State",
+          "seed": 3,
+          "result": "win"
+        },
+        {
+          "day": 2,
+          "team": "Virginia",
+          "seed": 3,
+          "result": "win"
+        },
+        {
+          "day": 3,
+          "team": "Arkansas",
+          "seed": 4,
+          "result": "win"
+        },
+        {
+          "day": 4,
+          "team": "UConn",
+          "seed": 2,
+          "result": "win"
+        },
+        {
+          "day": 5,
+          "team": "Iowa",
+          "seed": 9,
+          "result": "win"
+        }
+      ]
+    },
+    {
+      "name": "Parker Redelman",
+      "status": "alive",
+      "rank": 13,
+      "degen_score": 21,
+      "picks": [
+        {
+          "day": 1,
+          "team": "Nebraska",
+          "seed": 4,
+          "result": "win"
+        },
+        {
+          "day": 2,
+          "team": "St. John's",
+          "seed": 5,
+          "result": "win"
+        },
+        {
+          "day": 3,
+          "team": "Arkansas",
+          "seed": 4,
+          "result": "win"
+        },
+        {
+          "day": 4,
+          "team": "Tennessee",
+          "seed": 6,
+          "result": "win"
+        },
+        {
+          "day": 5,
+          "team": "Purdue",
+          "seed": 2,
+          "result": "win"
+        }
+      ]
+    },
+    {
+      "name": "Gus Nielsen",
+      "status": "alive",
+      "rank": 14,
+      "degen_score": 20,
+      "picks": [
+        {
+          "day": 1,
+          "team": "Illinois",
+          "seed": 3,
+          "result": "win"
+        },
+        {
+          "day": 2,
+          "team": "Purdue",
+          "seed": 2,
+          "result": "win"
+        },
+        {
+          "day": 3,
+          "team": "Arkansas",
+          "seed": 4,
+          "result": "win"
+        },
+        {
+          "day": 4,
+          "team": "UConn",
+          "seed": 2,
+          "result": "win"
+        },
+        {
+          "day": 5,
+          "team": "Iowa",
+          "seed": 9,
+          "result": "win"
+        }
+      ]
+    },
+    {
+      "name": "Jared Spector",
+      "status": "alive",
+      "rank": 15,
+      "degen_score": 20,
+      "picks": [
+        {
+          "day": 1,
+          "team": "Arkansas",
+          "seed": 4,
+          "result": "win"
+        },
+        {
+          "day": 2,
+          "team": "Purdue",
+          "seed": 2,
+          "result": "win"
+        },
+        {
+          "day": 3,
+          "team": "Illinois",
+          "seed": 3,
+          "result": "win"
+        },
+        {
+          "day": 4,
+          "team": "Iowa State",
+          "seed": 2,
+          "result": "win"
+        },
+        {
+          "day": 5,
+          "team": "Iowa",
+          "seed": 9,
+          "result": "win"
+        }
+      ]
+    },
+    {
+      "name": "Jim McMahon",
+      "status": "alive",
+      "rank": 16,
+      "degen_score": 20,
+      "picks": [
+        {
+          "day": 1,
+          "team": "Vanderbilt",
+          "seed": 5,
+          "result": "win"
+        },
+        {
+          "day": 2,
+          "team": "Alabama",
+          "seed": 4,
+          "result": "win"
+        },
+        {
+          "day": 3,
+          "team": "Arkansas",
+          "seed": 4,
+          "result": "win"
+        },
+        {
+          "day": 4,
+          "team": "St. John's",
+          "seed": 5,
+          "result": "win"
+        },
+        {
+          "day": 5,
+          "team": "Purdue",
+          "seed": 2,
+          "result": "win"
+        }
+      ]
+    },
+    {
+      "name": "Matt Romeo",
+      "status": "alive",
+      "rank": 17,
+      "degen_score": 20,
+      "picks": [
+        {
+          "day": 1,
+          "team": "Nebraska",
+          "seed": 4,
+          "result": "win"
+        },
+        {
+          "day": 2,
+          "team": "Kansas",
+          "seed": 4,
+          "result": "win"
+        },
+        {
+          "day": 3,
+          "team": "Arkansas",
+          "seed": 4,
+          "result": "win"
+        },
+        {
+          "day": 4,
+          "team": "Tennessee",
+          "seed": 6,
+          "result": "win"
+        },
+        {
+          "day": 5,
+          "team": "Purdue",
+          "seed": 2,
+          "result": "win"
+        }
+      ]
+    },
+    {
+      "name": "Phil Naglieri",
+      "status": "alive",
+      "rank": 18,
+      "degen_score": 20,
+      "picks": [
+        {
+          "day": 1,
+          "team": "Nebraska",
+          "seed": 4,
+          "result": "win"
+        },
+        {
+          "day": 2,
+          "team": "Kansas",
+          "seed": 4,
+          "result": "win"
+        },
+        {
+          "day": 3,
+          "team": "Arkansas",
+          "seed": 4,
+          "result": "win"
+        },
+        {
+          "day": 4,
+          "team": "Tennessee",
+          "seed": 6,
+          "result": "win"
+        },
+        {
+          "day": 5,
+          "team": "Purdue",
+          "seed": 2,
+          "result": "win"
+        }
+      ]
+    },
+    {
+      "name": "Marshall Keppel",
+      "status": "alive",
+      "rank": 19,
+      "degen_score": 19,
+      "picks": [
+        {
+          "day": 1,
+          "team": "Arkansas",
+          "seed": 4,
+          "result": "win"
+        },
+        {
+          "day": 2,
+          "team": "Virginia",
+          "seed": 3,
+          "result": "win"
+        },
+        {
+          "day": 3,
+          "team": "Duke",
+          "seed": 1,
+          "result": "win"
+        },
+        {
+          "day": 4,
+          "team": "Purdue",
+          "seed": 2,
+          "result": "win"
+        },
+        {
+          "day": 5,
+          "team": "Iowa",
+          "seed": 9,
+          "result": "win"
+        }
+      ]
+    },
+    {
+      "name": "Matt Giorgis",
+      "status": "alive",
+      "rank": 20,
+      "degen_score": 19,
+      "picks": [
+        {
+          "day": 1,
+          "team": "Gonzaga",
+          "seed": 3,
+          "result": "win"
+        },
+        {
+          "day": 2,
+          "team": "Texas Tech",
+          "seed": 5,
+          "result": "win"
+        },
+        {
+          "day": 3,
+          "team": "Arkansas",
+          "seed": 4,
+          "result": "win"
+        },
+        {
+          "day": 4,
+          "team": "St. John's",
+          "seed": 5,
+          "result": "win"
+        },
+        {
+          "day": 5,
+          "team": "Purdue",
+          "seed": 2,
+          "result": "win"
+        }
+      ]
+    },
+    {
+      "name": "David Plump",
+      "status": "alive",
+      "rank": 21,
+      "degen_score": 17,
+      "picks": [
+        {
+          "day": 1,
+          "team": "Nebraska",
+          "seed": 4,
+          "result": "win"
+        },
+        {
+          "day": 2,
+          "team": "Tennessee",
+          "seed": 6,
+          "result": "win"
+        },
+        {
+          "day": 3,
+          "team": "Arkansas",
+          "seed": 4,
+          "result": "win"
+        },
+        {
+          "day": 4,
+          "team": "Arizona",
+          "seed": 1,
+          "result": "win"
+        },
+        {
+          "day": 5,
+          "team": "Purdue",
+          "seed": 2,
+          "result": "win"
+        }
+      ]
+    },
+    {
+      "name": "Robert Buck",
+      "status": "alive",
+      "rank": 22,
+      "degen_score": 17,
+      "picks": [
+        {
+          "day": 1,
+          "team": "Gonzaga",
+          "seed": 3,
+          "result": "win"
+        },
+        {
+          "day": 2,
+          "team": "Purdue",
+          "seed": 2,
+          "result": "win"
+        },
+        {
+          "day": 3,
+          "team": "Houston",
+          "seed": 2,
+          "result": "win"
+        },
+        {
+          "day": 4,
+          "team": "Arizona",
+          "seed": 1,
+          "result": "win"
+        },
+        {
+          "day": 5,
+          "team": "Iowa",
+          "seed": 9,
+          "result": "win"
+        }
+      ]
+    },
+    {
+      "name": "Cat Draper",
+      "status": "alive",
+      "rank": 23,
+      "degen_score": 16,
+      "picks": [
+        {
+          "day": 1,
+          "team": "Arkansas",
+          "seed": 4,
+          "result": "win"
+        },
+        {
+          "day": 2,
+          "team": "Texas Tech",
+          "seed": 5,
+          "result": "win"
+        },
+        {
+          "day": 3,
+          "team": "Illinois",
+          "seed": 3,
+          "result": "win"
+        },
+        {
+          "day": 4,
+          "team": "UConn",
+          "seed": 2,
+          "result": "win"
+        },
+        {
+          "day": 5,
+          "team": "Purdue",
+          "seed": 2,
+          "result": "win"
+        }
+      ]
+    },
+    {
+      "name": "Chris Moore",
+      "status": "alive",
+      "rank": 24,
+      "degen_score": 16,
+      "picks": [
+        {
+          "day": 1,
+          "team": "Vanderbilt",
+          "seed": 5,
+          "result": "win"
+        },
+        {
+          "day": 2,
+          "team": "UConn",
+          "seed": 2,
+          "result": "win"
+        },
+        {
+          "day": 3,
+          "team": "Arkansas",
+          "seed": 4,
+          "result": "win"
+        },
+        {
+          "day": 4,
+          "team": "Purdue",
+          "seed": 2,
+          "result": "win"
+        },
+        {
+          "day": 5,
+          "team": "Illinois",
+          "seed": 3,
+          "result": "win"
+        }
+      ]
+    },
+    {
+      "name": "Courtney Good",
+      "status": "alive",
+      "rank": 25,
+      "degen_score": 16,
+      "picks": [
+        {
+          "day": 1,
+          "team": "Vanderbilt",
+          "seed": 5,
+          "result": "win"
+        },
+        {
+          "day": 2,
+          "team": "Kansas",
+          "seed": 4,
+          "result": "win"
+        },
+        {
+          "day": 3,
+          "team": "Illinois",
+          "seed": 3,
+          "result": "win"
+        },
+        {
+          "day": 4,
+          "team": "Iowa State",
+          "seed": 2,
+          "result": "win"
+        },
+        {
+          "day": 5,
+          "team": "Purdue",
+          "seed": 2,
+          "result": "win"
+        }
+      ]
+    },
+    {
+      "name": "Drew Carpenter",
+      "status": "alive",
+      "rank": 26,
+      "degen_score": 16,
+      "picks": [
+        {
+          "day": 1,
+          "team": "Arkansas",
+          "seed": 4,
+          "result": "win"
+        },
+        {
+          "day": 2,
+          "team": "St. John's",
+          "seed": 5,
+          "result": "win"
+        },
+        {
+          "day": 3,
+          "team": "Michigan State",
+          "seed": 3,
+          "result": "win"
+        },
+        {
+          "day": 4,
+          "team": "UConn",
+          "seed": 2,
+          "result": "win"
+        },
+        {
+          "day": 5,
+          "team": "Purdue",
+          "seed": 2,
+          "result": "win"
+        }
+      ]
+    },
+    {
+      "name": "Mac Brockmyre",
+      "status": "alive",
+      "rank": 27,
+      "degen_score": 16,
+      "picks": [
+        {
+          "day": 1,
+          "team": "Michigan State",
+          "seed": 3,
+          "result": "win"
+        },
+        {
+          "day": 2,
+          "team": "Virginia",
+          "seed": 3,
+          "result": "win"
+        },
+        {
+          "day": 3,
+          "team": "Illinois",
+          "seed": 3,
+          "result": "win"
+        },
+        {
+          "day": 4,
+          "team": "St. John's",
+          "seed": 5,
+          "result": "win"
+        },
+        {
+          "day": 5,
+          "team": "Purdue",
+          "seed": 2,
+          "result": "win"
+        }
+      ]
+    },
+    {
+      "name": "Nolan Dickinson",
+      "status": "alive",
+      "rank": 28,
+      "degen_score": 16,
+      "picks": [
+        {
+          "day": 1,
+          "team": "Nebraska",
+          "seed": 4,
+          "result": "win"
+        },
+        {
+          "day": 2,
+          "team": "UConn",
+          "seed": 2,
+          "result": "win"
+        },
+        {
+          "day": 3,
+          "team": "Illinois",
+          "seed": 3,
+          "result": "win"
+        },
+        {
+          "day": 4,
+          "team": "St. John's",
+          "seed": 5,
+          "result": "win"
+        },
+        {
+          "day": 5,
+          "team": "Purdue",
+          "seed": 2,
+          "result": "win"
+        }
+      ]
+    },
+    {
+      "name": "Matt Watson",
+      "status": "alive",
+      "rank": 29,
+      "degen_score": 15,
+      "picks": [
+        {
+          "day": 1,
+          "team": "Arkansas",
+          "seed": 4,
+          "result": "win"
+        },
+        {
+          "day": 2,
+          "team": "Kansas",
+          "seed": 4,
+          "result": "win"
+        },
+        {
+          "day": 3,
+          "team": "Illinois",
+          "seed": 3,
+          "result": "win"
+        },
+        {
+          "day": 4,
+          "team": "UConn",
+          "seed": 2,
+          "result": "win"
+        },
+        {
+          "day": 5,
+          "team": "Purdue",
+          "seed": 2,
+          "result": "win"
+        }
+      ]
+    },
+    {
+      "name": "Sarah Gray Moore",
+      "status": "alive",
+      "rank": 30,
+      "degen_score": 15,
+      "picks": [
+        {
+          "day": 1,
+          "team": "Vanderbilt",
+          "seed": 5,
+          "result": "win"
+        },
+        {
+          "day": 2,
+          "team": "St. John's",
+          "seed": 5,
+          "result": "win"
+        },
+        {
+          "day": 3,
+          "team": "Houston",
+          "seed": 2,
+          "result": "win"
+        },
+        {
+          "day": 4,
+          "team": "Iowa State",
+          "seed": 2,
+          "result": "win"
+        },
+        {
+          "day": 5,
+          "team": "Arizona",
+          "seed": 1,
+          "result": "win"
+        }
+      ]
+    },
+    {
+      "name": "Steven Wexler",
+      "status": "alive",
+      "rank": 31,
+      "degen_score": 15,
+      "picks": [
+        {
+          "day": 1,
+          "team": "Michigan State",
+          "seed": 3,
+          "result": "win"
+        },
+        {
+          "day": 2,
+          "team": "Kansas",
+          "seed": 4,
+          "result": "win"
+        },
+        {
+          "day": 3,
+          "team": "Arkansas",
+          "seed": 4,
+          "result": "win"
+        },
+        {
+          "day": 4,
+          "team": "UConn",
+          "seed": 2,
+          "result": "win"
+        },
+        {
+          "day": 5,
+          "team": "Purdue",
+          "seed": 2,
+          "result": "win"
+        }
+      ]
+    },
+    {
+      "name": "Will Bachman",
+      "status": "alive",
+      "rank": 32,
+      "degen_score": 15,
+      "picks": [
+        {
+          "day": 1,
+          "team": "Nebraska",
+          "seed": 4,
+          "result": "win"
+        },
+        {
+          "day": 2,
+          "team": "Alabama",
+          "seed": 4,
+          "result": "win"
+        },
+        {
+          "day": 3,
+          "team": "Arkansas",
+          "seed": 4,
+          "result": "win"
+        },
+        {
+          "day": 4,
+          "team": "Arizona",
+          "seed": 1,
+          "result": "win"
+        },
+        {
+          "day": 5,
+          "team": "Purdue",
+          "seed": 2,
+          "result": "win"
+        }
+      ]
+    },
+    {
+      "name": "Ashley Zamperini",
+      "status": "alive",
+      "rank": 33,
+      "degen_score": 14,
+      "picks": [
+        {
+          "day": 1,
+          "team": "Nebraska",
+          "seed": 4,
+          "result": "win"
+        },
+        {
+          "day": 2,
+          "team": "Alabama",
+          "seed": 4,
+          "result": "win"
+        },
+        {
+          "day": 3,
+          "team": "Michigan State",
+          "seed": 3,
+          "result": "win"
+        },
+        {
+          "day": 4,
+          "team": "Purdue",
+          "seed": 2,
+          "result": "win"
+        },
+        {
+          "day": 5,
+          "team": "Arizona",
+          "seed": 1,
+          "result": "win"
+        }
+      ]
+    },
+    {
+      "name": "Chris Higgs",
+      "status": "alive",
+      "rank": 34,
+      "degen_score": 14,
+      "picks": [
+        {
+          "day": 1,
+          "team": "Vanderbilt",
+          "seed": 5,
+          "result": "win"
+        },
+        {
+          "day": 2,
+          "team": "Virginia",
+          "seed": 3,
+          "result": "win"
+        },
+        {
+          "day": 3,
+          "team": "Illinois",
+          "seed": 3,
+          "result": "win"
+        },
+        {
+          "day": 4,
+          "team": "Purdue",
+          "seed": 2,
+          "result": "win"
+        },
+        {
+          "day": 5,
+          "team": "Arizona",
+          "seed": 1,
+          "result": "win"
+        }
+      ]
+    },
+    {
+      "name": "Matt Storey",
+      "status": "alive",
+      "rank": 35,
+      "degen_score": 14,
+      "picks": [
+        {
+          "day": 1,
+          "team": "Nebraska",
+          "seed": 4,
+          "result": "win"
+        },
+        {
+          "day": 2,
+          "team": "Virginia",
+          "seed": 3,
+          "result": "win"
+        },
+        {
+          "day": 3,
+          "team": "Illinois",
+          "seed": 3,
+          "result": "win"
+        },
+        {
+          "day": 4,
+          "team": "Iowa State",
+          "seed": 2,
+          "result": "win"
+        },
+        {
+          "day": 5,
+          "team": "Purdue",
+          "seed": 2,
+          "result": "win"
+        }
+      ]
+    },
+    {
+      "name": "Susanne Dickinson",
+      "status": "alive",
+      "rank": 36,
+      "degen_score": 14,
+      "picks": [
+        {
+          "day": 1,
+          "team": "Gonzaga",
+          "seed": 3,
+          "result": "win"
+        },
+        {
+          "day": 2,
+          "team": "St. John's",
+          "seed": 5,
+          "result": "win"
+        },
+        {
+          "day": 3,
+          "team": "Illinois",
+          "seed": 3,
+          "result": "win"
+        },
+        {
+          "day": 4,
+          "team": "Purdue",
+          "seed": 2,
+          "result": "win"
+        },
+        {
+          "day": 5,
+          "team": "Arizona",
+          "seed": 1,
+          "result": "win"
+        }
+      ]
+    },
+    {
+      "name": "Barrett Mears",
+      "status": "alive",
+      "rank": 37,
+      "degen_score": 13,
+      "picks": [
+        {
+          "day": 1,
+          "team": "Illinois",
+          "seed": 3,
+          "result": "win"
+        },
+        {
+          "day": 2,
+          "team": "Iowa State",
+          "seed": 2,
+          "result": "win"
+        },
+        {
+          "day": 3,
+          "team": "Arkansas",
+          "seed": 4,
+          "result": "win"
+        },
+        {
+          "day": 4,
+          "team": "UConn",
+          "seed": 2,
+          "result": "win"
+        },
+        {
+          "day": 5,
+          "team": "Purdue",
+          "seed": 2,
+          "result": "win"
+        }
+      ]
+    },
+    {
+      "name": "Kaitlyn Brockmyre",
+      "status": "alive",
+      "rank": 38,
+      "degen_score": 13,
+      "picks": [
+        {
+          "day": 1,
+          "team": "Illinois",
+          "seed": 3,
+          "result": "win"
+        },
+        {
+          "day": 2,
+          "team": "Kansas",
+          "seed": 4,
+          "result": "win"
+        },
+        {
+          "day": 3,
+          "team": "Michigan State",
+          "seed": 3,
+          "result": "win"
+        },
+        {
+          "day": 4,
+          "team": "Purdue",
+          "seed": 2,
+          "result": "win"
+        },
+        {
+          "day": 5,
+          "team": "Arizona",
+          "seed": 1,
+          "result": "win"
+        }
+      ]
+    },
+    {
+      "name": "Marty LaPrade",
+      "status": "alive",
+      "rank": 39,
+      "degen_score": 13,
+      "picks": [
+        {
+          "day": 1,
+          "team": "Michigan State",
+          "seed": 3,
+          "result": "win"
+        },
+        {
+          "day": 2,
+          "team": "Kansas",
+          "seed": 4,
+          "result": "win"
+        },
+        {
+          "day": 3,
+          "team": "Houston",
+          "seed": 2,
+          "result": "win"
+        },
+        {
+          "day": 4,
+          "team": "Iowa State",
+          "seed": 2,
+          "result": "win"
+        },
+        {
+          "day": 5,
+          "team": "Purdue",
+          "seed": 2,
+          "result": "win"
+        }
+      ]
+    },
+    {
+      "name": "Matt Sternberg",
+      "status": "alive",
+      "rank": 40,
+      "degen_score": 13,
+      "picks": [
+        {
+          "day": 1,
+          "team": "Nebraska",
+          "seed": 4,
+          "result": "win"
+        },
+        {
+          "day": 2,
+          "team": "Purdue",
+          "seed": 2,
+          "result": "win"
+        },
+        {
+          "day": 3,
+          "team": "Houston",
+          "seed": 2,
+          "result": "win"
+        },
+        {
+          "day": 4,
+          "team": "UConn",
+          "seed": 2,
+          "result": "win"
+        },
+        {
+          "day": 5,
+          "team": "Illinois",
+          "seed": 3,
+          "result": "win"
+        }
+      ]
+    },
+    {
+      "name": "McKay Elliott",
+      "status": "alive",
+      "rank": 41,
+      "degen_score": 13,
+      "picks": [
+        {
+          "day": 1,
+          "team": "Michigan State",
+          "seed": 3,
+          "result": "win"
+        },
+        {
+          "day": 2,
+          "team": "UConn",
+          "seed": 2,
+          "result": "win"
+        },
+        {
+          "day": 3,
+          "team": "Arkansas",
+          "seed": 4,
+          "result": "win"
+        },
+        {
+          "day": 4,
+          "team": "Iowa State",
+          "seed": 2,
+          "result": "win"
+        },
+        {
+          "day": 5,
+          "team": "Purdue",
+          "seed": 2,
+          "result": "win"
+        }
+      ]
+    },
+    {
+      "name": "Harry Kumar",
+      "status": "alive",
+      "rank": 42,
+      "degen_score": 12,
+      "picks": [
+        {
+          "day": 1,
+          "team": "Vanderbilt",
+          "seed": 5,
+          "result": "win"
+        },
+        {
+          "day": 2,
+          "team": "Virginia",
+          "seed": 3,
+          "result": "win"
+        },
+        {
+          "day": 3,
+          "team": "Duke",
+          "seed": 1,
+          "result": "win"
+        },
+        {
+          "day": 4,
+          "team": "Arizona",
+          "seed": 1,
+          "result": "win"
+        },
+        {
+          "day": 5,
+          "team": "Purdue",
+          "seed": 2,
+          "result": "win"
+        }
+      ]
+    },
+    {
+      "name": "Jai Prasad",
+      "status": "alive",
+      "rank": 43,
+      "degen_score": 12,
+      "picks": [
+        {
+          "day": 1,
+          "team": "Illinois",
+          "seed": 3,
+          "result": "win"
+        },
+        {
+          "day": 2,
+          "team": "Alabama",
+          "seed": 4,
+          "result": "win"
+        },
+        {
+          "day": 3,
+          "team": "Houston",
+          "seed": 2,
+          "result": "win"
+        },
+        {
+          "day": 4,
+          "team": "Arizona",
+          "seed": 1,
+          "result": "win"
+        },
+        {
+          "day": 5,
+          "team": "Purdue",
+          "seed": 2,
+          "result": "win"
+        }
+      ]
+    },
+    {
+      "name": "Sarah Moore",
+      "status": "alive",
+      "rank": 44,
+      "degen_score": 12,
+      "picks": [
+        {
+          "day": 1,
+          "team": "Houston",
+          "seed": 2,
+          "result": "win"
+        },
+        {
+          "day": 2,
+          "team": "Virginia",
+          "seed": 3,
+          "result": "win"
+        },
+        {
+          "day": 3,
+          "team": "Illinois",
+          "seed": 3,
+          "result": "win"
+        },
+        {
+          "day": 4,
+          "team": "Iowa State",
+          "seed": 2,
+          "result": "win"
+        },
+        {
+          "day": 5,
+          "team": "Purdue",
+          "seed": 2,
+          "result": "win"
+        }
+      ]
+    },
+    {
+      "name": "Jacob Beaver",
+      "status": "alive",
+      "rank": 45,
+      "degen_score": 11,
+      "picks": [
+        {
+          "day": 1,
+          "team": "Gonzaga",
+          "seed": 3,
+          "result": "win"
+        },
+        {
+          "day": 2,
+          "team": "Kansas",
+          "seed": 4,
+          "result": "win"
+        },
+        {
+          "day": 3,
+          "team": "Duke",
+          "seed": 1,
+          "result": "win"
+        },
+        {
+          "day": 4,
+          "team": "Arizona",
+          "seed": 1,
+          "result": "win"
+        },
+        {
+          "day": 5,
+          "team": "Purdue",
+          "seed": 2,
+          "result": "win"
+        }
+      ]
+    },
+    {
+      "name": "David Schultz",
+      "status": "eliminated",
+      "rank": 46,
       "degen_score": 22,
       "picks": [
         {
@@ -548,52 +2275,15 @@
           "day": 5,
           "team": "Nebraska",
           "seed": 4,
-          "result": "pending"
+          "result": "loss"
         }
-      ]
-    },
-    {
-      "name": "Jimmy Erickson",
-      "status": "alive",
-      "rank": 2,
-      "degen_score": 22,
-      "picks": [
-        {
-          "day": 1,
-          "team": "TCU",
-          "seed": 9,
-          "result": "win"
-        },
-        {
-          "day": 2,
-          "team": "UCLA",
-          "seed": 7,
-          "result": "win"
-        },
-        {
-          "day": 3,
-          "team": "Arkansas",
-          "seed": 4,
-          "result": "win"
-        },
-        {
-          "day": 4,
-          "team": "UConn",
-          "seed": 2,
-          "result": "win"
-        },
-        {
-          "day": 5,
-          "team": "Purdue",
-          "seed": 2,
-          "result": "pending"
-        }
-      ]
+      ],
+      "eliminated_day": 5
     },
     {
       "name": "Jacob Madsen",
-      "status": "alive",
-      "rank": 3,
+      "status": "eliminated",
+      "rank": 47,
       "degen_score": 21,
       "picks": [
         {
@@ -624,14 +2314,15 @@
           "day": 5,
           "team": "Nebraska",
           "seed": 4,
-          "result": "pending"
+          "result": "loss"
         }
-      ]
+      ],
+      "eliminated_day": 5
     },
     {
       "name": "Ashley LaPrade",
-      "status": "alive",
-      "rank": 4,
+      "status": "eliminated",
+      "rank": 48,
       "degen_score": 20,
       "picks": [
         {
@@ -662,14 +2353,15 @@
           "day": 5,
           "team": "Nebraska",
           "seed": 4,
-          "result": "pending"
+          "result": "loss"
         }
-      ]
+      ],
+      "eliminated_day": 5
     },
     {
       "name": "Robbie Hemstreet",
-      "status": "alive",
-      "rank": 5,
+      "status": "eliminated",
+      "rank": 49,
       "degen_score": 20,
       "picks": [
         {
@@ -700,166 +2392,15 @@
           "day": 5,
           "team": "Nebraska",
           "seed": 4,
-          "result": "pending"
+          "result": "loss"
         }
-      ]
-    },
-    {
-      "name": "Parker Redelman",
-      "status": "alive",
-      "rank": 6,
-      "degen_score": 19,
-      "picks": [
-        {
-          "day": 1,
-          "team": "Nebraska",
-          "seed": 4,
-          "result": "win"
-        },
-        {
-          "day": 2,
-          "team": "St. John's",
-          "seed": 5,
-          "result": "win"
-        },
-        {
-          "day": 3,
-          "team": "Arkansas",
-          "seed": 4,
-          "result": "win"
-        },
-        {
-          "day": 4,
-          "team": "Tennessee",
-          "seed": 6,
-          "result": "win"
-        },
-        {
-          "day": 5,
-          "team": "Purdue",
-          "seed": 2,
-          "result": "pending"
-        }
-      ]
-    },
-    {
-      "name": "Jim McMahon",
-      "status": "alive",
-      "rank": 7,
-      "degen_score": 18,
-      "picks": [
-        {
-          "day": 1,
-          "team": "Vanderbilt",
-          "seed": 5,
-          "result": "win"
-        },
-        {
-          "day": 2,
-          "team": "Alabama",
-          "seed": 4,
-          "result": "win"
-        },
-        {
-          "day": 3,
-          "team": "Arkansas",
-          "seed": 4,
-          "result": "win"
-        },
-        {
-          "day": 4,
-          "team": "St. John's",
-          "seed": 5,
-          "result": "win"
-        },
-        {
-          "day": 5,
-          "team": "Purdue",
-          "seed": 2,
-          "result": "pending"
-        }
-      ]
-    },
-    {
-      "name": "Matt Romeo",
-      "status": "alive",
-      "rank": 8,
-      "degen_score": 18,
-      "picks": [
-        {
-          "day": 1,
-          "team": "Nebraska",
-          "seed": 4,
-          "result": "win"
-        },
-        {
-          "day": 2,
-          "team": "Kansas",
-          "seed": 4,
-          "result": "win"
-        },
-        {
-          "day": 3,
-          "team": "Arkansas",
-          "seed": 4,
-          "result": "win"
-        },
-        {
-          "day": 4,
-          "team": "Tennessee",
-          "seed": 6,
-          "result": "win"
-        },
-        {
-          "day": 5,
-          "team": "Purdue",
-          "seed": 2,
-          "result": "pending"
-        }
-      ]
-    },
-    {
-      "name": "Phil Naglieri",
-      "status": "alive",
-      "rank": 9,
-      "degen_score": 18,
-      "picks": [
-        {
-          "day": 1,
-          "team": "Nebraska",
-          "seed": 4,
-          "result": "win"
-        },
-        {
-          "day": 2,
-          "team": "Kansas",
-          "seed": 4,
-          "result": "win"
-        },
-        {
-          "day": 3,
-          "team": "Arkansas",
-          "seed": 4,
-          "result": "win"
-        },
-        {
-          "day": 4,
-          "team": "Tennessee",
-          "seed": 6,
-          "result": "win"
-        },
-        {
-          "day": 5,
-          "team": "Purdue",
-          "seed": 2,
-          "result": "pending"
-        }
-      ]
+      ],
+      "eliminated_day": 5
     },
     {
       "name": "Tom Fenner",
-      "status": "alive",
-      "rank": 10,
+      "status": "eliminated",
+      "rank": 50,
       "degen_score": 18,
       "picks": [
         {
@@ -890,14 +2431,15 @@
           "day": 5,
           "team": "Nebraska",
           "seed": 4,
-          "result": "pending"
+          "result": "loss"
         }
-      ]
+      ],
+      "eliminated_day": 5
     },
     {
       "name": "Andrew Bolin",
-      "status": "alive",
-      "rank": 11,
+      "status": "eliminated",
+      "rank": 51,
       "degen_score": 17,
       "picks": [
         {
@@ -928,52 +2470,15 @@
           "day": 5,
           "team": "Nebraska",
           "seed": 4,
-          "result": "pending"
+          "result": "loss"
         }
-      ]
-    },
-    {
-      "name": "Matt Giorgis",
-      "status": "alive",
-      "rank": 12,
-      "degen_score": 17,
-      "picks": [
-        {
-          "day": 1,
-          "team": "Gonzaga",
-          "seed": 3,
-          "result": "win"
-        },
-        {
-          "day": 2,
-          "team": "Texas Tech",
-          "seed": 5,
-          "result": "win"
-        },
-        {
-          "day": 3,
-          "team": "Arkansas",
-          "seed": 4,
-          "result": "win"
-        },
-        {
-          "day": 4,
-          "team": "St. John's",
-          "seed": 5,
-          "result": "win"
-        },
-        {
-          "day": 5,
-          "team": "Purdue",
-          "seed": 2,
-          "result": "pending"
-        }
-      ]
+      ],
+      "eliminated_day": 5
     },
     {
       "name": "Sarah Madigan",
-      "status": "alive",
-      "rank": 13,
+      "status": "eliminated",
+      "rank": 52,
       "degen_score": 17,
       "picks": [
         {
@@ -1004,204 +2509,15 @@
           "day": 5,
           "team": "Nebraska",
           "seed": 4,
-          "result": "pending"
+          "result": "loss"
         }
-      ]
-    },
-    {
-      "name": "Alexa DellaTorre",
-      "status": "alive",
-      "rank": 14,
-      "degen_score": 16,
-      "picks": [
-        {
-          "day": 1,
-          "team": "Vanderbilt",
-          "seed": 5,
-          "result": "win"
-        },
-        {
-          "day": 2,
-          "team": "Texas Tech",
-          "seed": 5,
-          "result": "win"
-        },
-        {
-          "day": 3,
-          "team": "Nebraska",
-          "seed": 4,
-          "result": "win"
-        },
-        {
-          "day": 4,
-          "team": "UConn",
-          "seed": 2,
-          "result": "win"
-        },
-        {
-          "day": 5,
-          "team": "Iowa",
-          "seed": 9,
-          "result": "pending"
-        }
-      ]
-    },
-    {
-      "name": "Brandon Petillo",
-      "status": "alive",
-      "rank": 15,
-      "degen_score": 16,
-      "picks": [
-        {
-          "day": 1,
-          "team": "Nebraska",
-          "seed": 4,
-          "result": "win"
-        },
-        {
-          "day": 2,
-          "team": "Kansas",
-          "seed": 4,
-          "result": "win"
-        },
-        {
-          "day": 3,
-          "team": "Illinois",
-          "seed": 3,
-          "result": "win"
-        },
-        {
-          "day": 4,
-          "team": "St. John's",
-          "seed": 5,
-          "result": "win"
-        },
-        {
-          "day": 5,
-          "team": "Iowa",
-          "seed": 9,
-          "result": "pending"
-        }
-      ]
-    },
-    {
-      "name": "Gillum Ferguson",
-      "status": "alive",
-      "rank": 16,
-      "degen_score": 16,
-      "picks": [
-        {
-          "day": 1,
-          "team": "Nebraska",
-          "seed": 4,
-          "result": "win"
-        },
-        {
-          "day": 2,
-          "team": "Kansas",
-          "seed": 4,
-          "result": "win"
-        },
-        {
-          "day": 3,
-          "team": "Arkansas",
-          "seed": 4,
-          "result": "win"
-        },
-        {
-          "day": 4,
-          "team": "Alabama",
-          "seed": 4,
-          "result": "win"
-        },
-        {
-          "day": 5,
-          "team": "Iowa",
-          "seed": 9,
-          "result": "pending"
-        }
-      ]
-    },
-    {
-      "name": "Seton Parsons",
-      "status": "alive",
-      "rank": 17,
-      "degen_score": 16,
-      "picks": [
-        {
-          "day": 1,
-          "team": "Vanderbilt",
-          "seed": 5,
-          "result": "win"
-        },
-        {
-          "day": 2,
-          "team": "St. John's",
-          "seed": 5,
-          "result": "win"
-        },
-        {
-          "day": 3,
-          "team": "Arkansas",
-          "seed": 4,
-          "result": "win"
-        },
-        {
-          "day": 4,
-          "team": "Purdue",
-          "seed": 2,
-          "result": "win"
-        },
-        {
-          "day": 5,
-          "team": "Iowa",
-          "seed": 9,
-          "result": "pending"
-        }
-      ]
-    },
-    {
-      "name": "David Plump",
-      "status": "alive",
-      "rank": 18,
-      "degen_score": 15,
-      "picks": [
-        {
-          "day": 1,
-          "team": "Nebraska",
-          "seed": 4,
-          "result": "win"
-        },
-        {
-          "day": 2,
-          "team": "Tennessee",
-          "seed": 6,
-          "result": "win"
-        },
-        {
-          "day": 3,
-          "team": "Arkansas",
-          "seed": 4,
-          "result": "win"
-        },
-        {
-          "day": 4,
-          "team": "Arizona",
-          "seed": 1,
-          "result": "win"
-        },
-        {
-          "day": 5,
-          "team": "Purdue",
-          "seed": 2,
-          "result": "pending"
-        }
-      ]
+      ],
+      "eliminated_day": 5
     },
     {
       "name": "Jason Canaras",
-      "status": "alive",
-      "rank": 19,
+      "status": "eliminated",
+      "rank": 53,
       "degen_score": 15,
       "picks": [
         {
@@ -1232,90 +2548,15 @@
           "day": 5,
           "team": "Nebraska",
           "seed": 4,
-          "result": "pending"
+          "result": "loss"
         }
-      ]
-    },
-    {
-      "name": "Kenny Maher",
-      "status": "alive",
-      "rank": 20,
-      "degen_score": 15,
-      "picks": [
-        {
-          "day": 1,
-          "team": "Vanderbilt",
-          "seed": 5,
-          "result": "win"
-        },
-        {
-          "day": 2,
-          "team": "St. John's",
-          "seed": 5,
-          "result": "win"
-        },
-        {
-          "day": 3,
-          "team": "Arkansas",
-          "seed": 4,
-          "result": "win"
-        },
-        {
-          "day": 4,
-          "team": "Arizona",
-          "seed": 1,
-          "result": "win"
-        },
-        {
-          "day": 5,
-          "team": "Iowa",
-          "seed": 9,
-          "result": "pending"
-        }
-      ]
-    },
-    {
-      "name": "Ryan Hallisey",
-      "status": "alive",
-      "rank": 21,
-      "degen_score": 15,
-      "picks": [
-        {
-          "day": 1,
-          "team": "Arkansas",
-          "seed": 4,
-          "result": "win"
-        },
-        {
-          "day": 2,
-          "team": "Virginia",
-          "seed": 3,
-          "result": "win"
-        },
-        {
-          "day": 3,
-          "team": "Michigan State",
-          "seed": 3,
-          "result": "win"
-        },
-        {
-          "day": 4,
-          "team": "St. John's",
-          "seed": 5,
-          "result": "win"
-        },
-        {
-          "day": 5,
-          "team": "Iowa",
-          "seed": 9,
-          "result": "pending"
-        }
-      ]
+      ],
+      "eliminated_day": 5
     },
     {
       "name": "Alyssa Elliott",
-      "status": "alive",
-      "rank": 22,
+      "status": "eliminated",
+      "rank": 54,
       "degen_score": 14,
       "picks": [
         {
@@ -1346,52 +2587,15 @@
           "day": 5,
           "team": "Nebraska",
           "seed": 4,
-          "result": "pending"
+          "result": "loss"
         }
-      ]
-    },
-    {
-      "name": "Cat Draper",
-      "status": "alive",
-      "rank": 23,
-      "degen_score": 14,
-      "picks": [
-        {
-          "day": 1,
-          "team": "Arkansas",
-          "seed": 4,
-          "result": "win"
-        },
-        {
-          "day": 2,
-          "team": "Texas Tech",
-          "seed": 5,
-          "result": "win"
-        },
-        {
-          "day": 3,
-          "team": "Illinois",
-          "seed": 3,
-          "result": "win"
-        },
-        {
-          "day": 4,
-          "team": "UConn",
-          "seed": 2,
-          "result": "win"
-        },
-        {
-          "day": 5,
-          "team": "Purdue",
-          "seed": 2,
-          "result": "pending"
-        }
-      ]
+      ],
+      "eliminated_day": 5
     },
     {
       "name": "Chelsea Vale O'Hara",
-      "status": "alive",
-      "rank": 24,
+      "status": "eliminated",
+      "rank": 55,
       "degen_score": 14,
       "picks": [
         {
@@ -1422,242 +2626,15 @@
           "day": 5,
           "team": "Nebraska",
           "seed": 4,
-          "result": "pending"
+          "result": "loss"
         }
-      ]
-    },
-    {
-      "name": "Courtney Good",
-      "status": "alive",
-      "rank": 25,
-      "degen_score": 14,
-      "picks": [
-        {
-          "day": 1,
-          "team": "Vanderbilt",
-          "seed": 5,
-          "result": "win"
-        },
-        {
-          "day": 2,
-          "team": "Kansas",
-          "seed": 4,
-          "result": "win"
-        },
-        {
-          "day": 3,
-          "team": "Illinois",
-          "seed": 3,
-          "result": "win"
-        },
-        {
-          "day": 4,
-          "team": "Iowa State",
-          "seed": 2,
-          "result": "win"
-        },
-        {
-          "day": 5,
-          "team": "Purdue",
-          "seed": 2,
-          "result": "pending"
-        }
-      ]
-    },
-    {
-      "name": "Drew Carpenter",
-      "status": "alive",
-      "rank": 26,
-      "degen_score": 14,
-      "picks": [
-        {
-          "day": 1,
-          "team": "Arkansas",
-          "seed": 4,
-          "result": "win"
-        },
-        {
-          "day": 2,
-          "team": "St. John's",
-          "seed": 5,
-          "result": "win"
-        },
-        {
-          "day": 3,
-          "team": "Michigan State",
-          "seed": 3,
-          "result": "win"
-        },
-        {
-          "day": 4,
-          "team": "UConn",
-          "seed": 2,
-          "result": "win"
-        },
-        {
-          "day": 5,
-          "team": "Purdue",
-          "seed": 2,
-          "result": "pending"
-        }
-      ]
-    },
-    {
-      "name": "Mac Brockmyre",
-      "status": "alive",
-      "rank": 27,
-      "degen_score": 14,
-      "picks": [
-        {
-          "day": 1,
-          "team": "Michigan State",
-          "seed": 3,
-          "result": "win"
-        },
-        {
-          "day": 2,
-          "team": "Virginia",
-          "seed": 3,
-          "result": "win"
-        },
-        {
-          "day": 3,
-          "team": "Illinois",
-          "seed": 3,
-          "result": "win"
-        },
-        {
-          "day": 4,
-          "team": "St. John's",
-          "seed": 5,
-          "result": "win"
-        },
-        {
-          "day": 5,
-          "team": "Purdue",
-          "seed": 2,
-          "result": "pending"
-        }
-      ]
-    },
-    {
-      "name": "Nolan Dickinson",
-      "status": "alive",
-      "rank": 28,
-      "degen_score": 14,
-      "picks": [
-        {
-          "day": 1,
-          "team": "Nebraska",
-          "seed": 4,
-          "result": "win"
-        },
-        {
-          "day": 2,
-          "team": "UConn",
-          "seed": 2,
-          "result": "win"
-        },
-        {
-          "day": 3,
-          "team": "Illinois",
-          "seed": 3,
-          "result": "win"
-        },
-        {
-          "day": 4,
-          "team": "St. John's",
-          "seed": 5,
-          "result": "win"
-        },
-        {
-          "day": 5,
-          "team": "Purdue",
-          "seed": 2,
-          "result": "pending"
-        }
-      ]
-    },
-    {
-      "name": "Sarah Gray Moore",
-      "status": "alive",
-      "rank": 29,
-      "degen_score": 14,
-      "picks": [
-        {
-          "day": 1,
-          "team": "Vanderbilt",
-          "seed": 5,
-          "result": "win"
-        },
-        {
-          "day": 2,
-          "team": "St. John's",
-          "seed": 5,
-          "result": "win"
-        },
-        {
-          "day": 3,
-          "team": "Houston",
-          "seed": 2,
-          "result": "win"
-        },
-        {
-          "day": 4,
-          "team": "Iowa State",
-          "seed": 2,
-          "result": "win"
-        },
-        {
-          "day": 5,
-          "team": "Arizona",
-          "seed": 1,
-          "result": "pending"
-        }
-      ]
-    },
-    {
-      "name": "Toofer Moore",
-      "status": "alive",
-      "rank": 30,
-      "degen_score": 14,
-      "picks": [
-        {
-          "day": 1,
-          "team": "Nebraska",
-          "seed": 4,
-          "result": "win"
-        },
-        {
-          "day": 2,
-          "team": "Texas Tech",
-          "seed": 5,
-          "result": "win"
-        },
-        {
-          "day": 3,
-          "team": "Illinois",
-          "seed": 3,
-          "result": "win"
-        },
-        {
-          "day": 4,
-          "team": "Purdue",
-          "seed": 2,
-          "result": "win"
-        },
-        {
-          "day": 5,
-          "team": "Iowa",
-          "seed": 9,
-          "result": "pending"
-        }
-      ]
+      ],
+      "eliminated_day": 5
     },
     {
       "name": "Will Weber",
-      "status": "alive",
-      "rank": 31,
+      "status": "eliminated",
+      "rank": 56,
       "degen_score": 14,
       "picks": [
         {
@@ -1688,166 +2665,15 @@
           "day": 5,
           "team": "Nebraska",
           "seed": 4,
-          "result": "pending"
+          "result": "loss"
         }
-      ]
-    },
-    {
-      "name": "Andrew Madigan",
-      "status": "alive",
-      "rank": 32,
-      "degen_score": 13,
-      "picks": [
-        {
-          "day": 1,
-          "team": "Illinois",
-          "seed": 3,
-          "result": "win"
-        },
-        {
-          "day": 2,
-          "team": "Kansas",
-          "seed": 4,
-          "result": "win"
-        },
-        {
-          "day": 3,
-          "team": "Arkansas",
-          "seed": 4,
-          "result": "win"
-        },
-        {
-          "day": 4,
-          "team": "UConn",
-          "seed": 2,
-          "result": "win"
-        },
-        {
-          "day": 5,
-          "team": "Iowa",
-          "seed": 9,
-          "result": "pending"
-        }
-      ]
-    },
-    {
-      "name": "Ashley Zamperini",
-      "status": "alive",
-      "rank": 33,
-      "degen_score": 13,
-      "picks": [
-        {
-          "day": 1,
-          "team": "Nebraska",
-          "seed": 4,
-          "result": "win"
-        },
-        {
-          "day": 2,
-          "team": "Alabama",
-          "seed": 4,
-          "result": "win"
-        },
-        {
-          "day": 3,
-          "team": "Michigan State",
-          "seed": 3,
-          "result": "win"
-        },
-        {
-          "day": 4,
-          "team": "Purdue",
-          "seed": 2,
-          "result": "win"
-        },
-        {
-          "day": 5,
-          "team": "Arizona",
-          "seed": 1,
-          "result": "pending"
-        }
-      ]
-    },
-    {
-      "name": "Chris Higgs",
-      "status": "alive",
-      "rank": 34,
-      "degen_score": 13,
-      "picks": [
-        {
-          "day": 1,
-          "team": "Vanderbilt",
-          "seed": 5,
-          "result": "win"
-        },
-        {
-          "day": 2,
-          "team": "Virginia",
-          "seed": 3,
-          "result": "win"
-        },
-        {
-          "day": 3,
-          "team": "Illinois",
-          "seed": 3,
-          "result": "win"
-        },
-        {
-          "day": 4,
-          "team": "Purdue",
-          "seed": 2,
-          "result": "win"
-        },
-        {
-          "day": 5,
-          "team": "Arizona",
-          "seed": 1,
-          "result": "pending"
-        }
-      ]
-    },
-    {
-      "name": "Chris Moore",
-      "status": "alive",
-      "rank": 35,
-      "degen_score": 13,
-      "picks": [
-        {
-          "day": 1,
-          "team": "Vanderbilt",
-          "seed": 5,
-          "result": "win"
-        },
-        {
-          "day": 2,
-          "team": "UConn",
-          "seed": 2,
-          "result": "win"
-        },
-        {
-          "day": 3,
-          "team": "Arkansas",
-          "seed": 4,
-          "result": "win"
-        },
-        {
-          "day": 4,
-          "team": "Purdue",
-          "seed": 2,
-          "result": "win"
-        },
-        {
-          "day": 5,
-          "team": "Illinois",
-          "seed": 3,
-          "result": "pending"
-        }
-      ]
+      ],
+      "eliminated_day": 5
     },
     {
       "name": "Jack Fitzsimmons",
-      "status": "alive",
-      "rank": 36,
+      "status": "eliminated",
+      "rank": 57,
       "degen_score": 13,
       "picks": [
         {
@@ -1878,90 +2704,15 @@
           "day": 5,
           "team": "Nebraska",
           "seed": 4,
-          "result": "pending"
+          "result": "loss"
         }
-      ]
-    },
-    {
-      "name": "Jack Meara",
-      "status": "alive",
-      "rank": 37,
-      "degen_score": 13,
-      "picks": [
-        {
-          "day": 1,
-          "team": "Arkansas",
-          "seed": 4,
-          "result": "win"
-        },
-        {
-          "day": 2,
-          "team": "Alabama",
-          "seed": 4,
-          "result": "win"
-        },
-        {
-          "day": 3,
-          "team": "Illinois",
-          "seed": 3,
-          "result": "win"
-        },
-        {
-          "day": 4,
-          "team": "Purdue",
-          "seed": 2,
-          "result": "win"
-        },
-        {
-          "day": 5,
-          "team": "Iowa",
-          "seed": 9,
-          "result": "pending"
-        }
-      ]
-    },
-    {
-      "name": "Matt Watson",
-      "status": "alive",
-      "rank": 38,
-      "degen_score": 13,
-      "picks": [
-        {
-          "day": 1,
-          "team": "Arkansas",
-          "seed": 4,
-          "result": "win"
-        },
-        {
-          "day": 2,
-          "team": "Kansas",
-          "seed": 4,
-          "result": "win"
-        },
-        {
-          "day": 3,
-          "team": "Illinois",
-          "seed": 3,
-          "result": "win"
-        },
-        {
-          "day": 4,
-          "team": "UConn",
-          "seed": 2,
-          "result": "win"
-        },
-        {
-          "day": 5,
-          "team": "Purdue",
-          "seed": 2,
-          "result": "pending"
-        }
-      ]
+      ],
+      "eliminated_day": 5
     },
     {
       "name": "Peter Lifson",
-      "status": "alive",
-      "rank": 39,
+      "status": "eliminated",
+      "rank": 58,
       "degen_score": 13,
       "picks": [
         {
@@ -1992,14 +2743,15 @@
           "day": 5,
           "team": "Nebraska",
           "seed": 4,
-          "result": "pending"
+          "result": "loss"
         }
-      ]
+      ],
+      "eliminated_day": 5
     },
     {
       "name": "Sarah Nielsen",
-      "status": "alive",
-      "rank": 40,
+      "status": "eliminated",
+      "rank": 59,
       "degen_score": 13,
       "picks": [
         {
@@ -2030,166 +2782,15 @@
           "day": 5,
           "team": "Houston",
           "seed": 2,
-          "result": "pending"
+          "result": "loss"
         }
-      ]
-    },
-    {
-      "name": "Steven Wexler",
-      "status": "alive",
-      "rank": 41,
-      "degen_score": 13,
-      "picks": [
-        {
-          "day": 1,
-          "team": "Michigan State",
-          "seed": 3,
-          "result": "win"
-        },
-        {
-          "day": 2,
-          "team": "Kansas",
-          "seed": 4,
-          "result": "win"
-        },
-        {
-          "day": 3,
-          "team": "Arkansas",
-          "seed": 4,
-          "result": "win"
-        },
-        {
-          "day": 4,
-          "team": "UConn",
-          "seed": 2,
-          "result": "win"
-        },
-        {
-          "day": 5,
-          "team": "Purdue",
-          "seed": 2,
-          "result": "pending"
-        }
-      ]
-    },
-    {
-      "name": "Sundeep Kulkarni",
-      "status": "alive",
-      "rank": 42,
-      "degen_score": 13,
-      "picks": [
-        {
-          "day": 1,
-          "team": "Arkansas",
-          "seed": 4,
-          "result": "win"
-        },
-        {
-          "day": 2,
-          "team": "St. John's",
-          "seed": 5,
-          "result": "win"
-        },
-        {
-          "day": 3,
-          "team": "Illinois",
-          "seed": 3,
-          "result": "win"
-        },
-        {
-          "day": 4,
-          "team": "Arizona",
-          "seed": 1,
-          "result": "win"
-        },
-        {
-          "day": 5,
-          "team": "Iowa",
-          "seed": 9,
-          "result": "pending"
-        }
-      ]
-    },
-    {
-      "name": "Susanne Dickinson",
-      "status": "alive",
-      "rank": 43,
-      "degen_score": 13,
-      "picks": [
-        {
-          "day": 1,
-          "team": "Gonzaga",
-          "seed": 3,
-          "result": "win"
-        },
-        {
-          "day": 2,
-          "team": "St. John's",
-          "seed": 5,
-          "result": "win"
-        },
-        {
-          "day": 3,
-          "team": "Illinois",
-          "seed": 3,
-          "result": "win"
-        },
-        {
-          "day": 4,
-          "team": "Purdue",
-          "seed": 2,
-          "result": "win"
-        },
-        {
-          "day": 5,
-          "team": "Arizona",
-          "seed": 1,
-          "result": "pending"
-        }
-      ]
-    },
-    {
-      "name": "Will Bachman",
-      "status": "alive",
-      "rank": 44,
-      "degen_score": 13,
-      "picks": [
-        {
-          "day": 1,
-          "team": "Nebraska",
-          "seed": 4,
-          "result": "win"
-        },
-        {
-          "day": 2,
-          "team": "Alabama",
-          "seed": 4,
-          "result": "win"
-        },
-        {
-          "day": 3,
-          "team": "Arkansas",
-          "seed": 4,
-          "result": "win"
-        },
-        {
-          "day": 4,
-          "team": "Arizona",
-          "seed": 1,
-          "result": "win"
-        },
-        {
-          "day": 5,
-          "team": "Purdue",
-          "seed": 2,
-          "result": "pending"
-        }
-      ]
+      ],
+      "eliminated_day": 5
     },
     {
       "name": "Brendan Madigan",
-      "status": "alive",
-      "rank": 45,
+      "status": "eliminated",
+      "rank": 60,
       "degen_score": 12,
       "picks": [
         {
@@ -2220,14 +2821,15 @@
           "day": 5,
           "team": "Nebraska",
           "seed": 4,
-          "result": "pending"
+          "result": "loss"
         }
-      ]
+      ],
+      "eliminated_day": 5
     },
     {
       "name": "David Rosenthal",
-      "status": "alive",
-      "rank": 46,
+      "status": "eliminated",
+      "rank": 61,
       "degen_score": 12,
       "picks": [
         {
@@ -2258,14 +2860,15 @@
           "day": 5,
           "team": "Texas",
           "seed": 11,
-          "result": "pending"
+          "result": "loss"
         }
-      ]
+      ],
+      "eliminated_day": 5
     },
     {
       "name": "Jim Shuman",
-      "status": "alive",
-      "rank": 47,
+      "status": "eliminated",
+      "rank": 62,
       "degen_score": 12,
       "picks": [
         {
@@ -2296,52 +2899,15 @@
           "day": 5,
           "team": "Houston",
           "seed": 2,
-          "result": "pending"
+          "result": "loss"
         }
-      ]
-    },
-    {
-      "name": "Jordan Gelband",
-      "status": "alive",
-      "rank": 48,
-      "degen_score": 12,
-      "picks": [
-        {
-          "day": 1,
-          "team": "Michigan State",
-          "seed": 3,
-          "result": "win"
-        },
-        {
-          "day": 2,
-          "team": "Virginia",
-          "seed": 3,
-          "result": "win"
-        },
-        {
-          "day": 3,
-          "team": "Arkansas",
-          "seed": 4,
-          "result": "win"
-        },
-        {
-          "day": 4,
-          "team": "UConn",
-          "seed": 2,
-          "result": "win"
-        },
-        {
-          "day": 5,
-          "team": "Iowa",
-          "seed": 9,
-          "result": "pending"
-        }
-      ]
+      ],
+      "eliminated_day": 5
     },
     {
       "name": "Josh McMahon",
-      "status": "alive",
-      "rank": 49,
+      "status": "eliminated",
+      "rank": 63,
       "degen_score": 12,
       "picks": [
         {
@@ -2372,90 +2938,15 @@
           "day": 5,
           "team": "Nebraska",
           "seed": 4,
-          "result": "pending"
+          "result": "loss"
         }
-      ]
-    },
-    {
-      "name": "Kaitlyn Brockmyre",
-      "status": "alive",
-      "rank": 50,
-      "degen_score": 12,
-      "picks": [
-        {
-          "day": 1,
-          "team": "Illinois",
-          "seed": 3,
-          "result": "win"
-        },
-        {
-          "day": 2,
-          "team": "Kansas",
-          "seed": 4,
-          "result": "win"
-        },
-        {
-          "day": 3,
-          "team": "Michigan State",
-          "seed": 3,
-          "result": "win"
-        },
-        {
-          "day": 4,
-          "team": "Purdue",
-          "seed": 2,
-          "result": "win"
-        },
-        {
-          "day": 5,
-          "team": "Arizona",
-          "seed": 1,
-          "result": "pending"
-        }
-      ]
-    },
-    {
-      "name": "Matt Storey",
-      "status": "alive",
-      "rank": 51,
-      "degen_score": 12,
-      "picks": [
-        {
-          "day": 1,
-          "team": "Nebraska",
-          "seed": 4,
-          "result": "win"
-        },
-        {
-          "day": 2,
-          "team": "Virginia",
-          "seed": 3,
-          "result": "win"
-        },
-        {
-          "day": 3,
-          "team": "Illinois",
-          "seed": 3,
-          "result": "win"
-        },
-        {
-          "day": 4,
-          "team": "Iowa State",
-          "seed": 2,
-          "result": "win"
-        },
-        {
-          "day": 5,
-          "team": "Purdue",
-          "seed": 2,
-          "result": "pending"
-        }
-      ]
+      ],
+      "eliminated_day": 5
     },
     {
       "name": "Zach Orlowsky",
-      "status": "alive",
-      "rank": 52,
+      "status": "eliminated",
+      "rank": 64,
       "degen_score": 12,
       "picks": [
         {
@@ -2486,52 +2977,15 @@
           "day": 5,
           "team": "Nebraska",
           "seed": 4,
-          "result": "pending"
+          "result": "loss"
         }
-      ]
-    },
-    {
-      "name": "Barrett Mears",
-      "status": "alive",
-      "rank": 53,
-      "degen_score": 11,
-      "picks": [
-        {
-          "day": 1,
-          "team": "Illinois",
-          "seed": 3,
-          "result": "win"
-        },
-        {
-          "day": 2,
-          "team": "Iowa State",
-          "seed": 2,
-          "result": "win"
-        },
-        {
-          "day": 3,
-          "team": "Arkansas",
-          "seed": 4,
-          "result": "win"
-        },
-        {
-          "day": 4,
-          "team": "UConn",
-          "seed": 2,
-          "result": "win"
-        },
-        {
-          "day": 5,
-          "team": "Purdue",
-          "seed": 2,
-          "result": "pending"
-        }
-      ]
+      ],
+      "eliminated_day": 5
     },
     {
       "name": "Chris Reeves",
-      "status": "alive",
-      "rank": 54,
+      "status": "eliminated",
+      "rank": 65,
       "degen_score": 11,
       "picks": [
         {
@@ -2562,166 +3016,15 @@
           "day": 5,
           "team": "Houston",
           "seed": 2,
-          "result": "pending"
+          "result": "loss"
         }
-      ]
-    },
-    {
-      "name": "Gus Nielsen",
-      "status": "alive",
-      "rank": 55,
-      "degen_score": 11,
-      "picks": [
-        {
-          "day": 1,
-          "team": "Illinois",
-          "seed": 3,
-          "result": "win"
-        },
-        {
-          "day": 2,
-          "team": "Purdue",
-          "seed": 2,
-          "result": "win"
-        },
-        {
-          "day": 3,
-          "team": "Arkansas",
-          "seed": 4,
-          "result": "win"
-        },
-        {
-          "day": 4,
-          "team": "UConn",
-          "seed": 2,
-          "result": "win"
-        },
-        {
-          "day": 5,
-          "team": "Iowa",
-          "seed": 9,
-          "result": "pending"
-        }
-      ]
-    },
-    {
-      "name": "Jared Spector",
-      "status": "alive",
-      "rank": 56,
-      "degen_score": 11,
-      "picks": [
-        {
-          "day": 1,
-          "team": "Arkansas",
-          "seed": 4,
-          "result": "win"
-        },
-        {
-          "day": 2,
-          "team": "Purdue",
-          "seed": 2,
-          "result": "win"
-        },
-        {
-          "day": 3,
-          "team": "Illinois",
-          "seed": 3,
-          "result": "win"
-        },
-        {
-          "day": 4,
-          "team": "Iowa State",
-          "seed": 2,
-          "result": "win"
-        },
-        {
-          "day": 5,
-          "team": "Iowa",
-          "seed": 9,
-          "result": "pending"
-        }
-      ]
-    },
-    {
-      "name": "Marty LaPrade",
-      "status": "alive",
-      "rank": 57,
-      "degen_score": 11,
-      "picks": [
-        {
-          "day": 1,
-          "team": "Michigan State",
-          "seed": 3,
-          "result": "win"
-        },
-        {
-          "day": 2,
-          "team": "Kansas",
-          "seed": 4,
-          "result": "win"
-        },
-        {
-          "day": 3,
-          "team": "Houston",
-          "seed": 2,
-          "result": "win"
-        },
-        {
-          "day": 4,
-          "team": "Iowa State",
-          "seed": 2,
-          "result": "win"
-        },
-        {
-          "day": 5,
-          "team": "Purdue",
-          "seed": 2,
-          "result": "pending"
-        }
-      ]
-    },
-    {
-      "name": "McKay Elliott",
-      "status": "alive",
-      "rank": 58,
-      "degen_score": 11,
-      "picks": [
-        {
-          "day": 1,
-          "team": "Michigan State",
-          "seed": 3,
-          "result": "win"
-        },
-        {
-          "day": 2,
-          "team": "UConn",
-          "seed": 2,
-          "result": "win"
-        },
-        {
-          "day": 3,
-          "team": "Arkansas",
-          "seed": 4,
-          "result": "win"
-        },
-        {
-          "day": 4,
-          "team": "Iowa State",
-          "seed": 2,
-          "result": "win"
-        },
-        {
-          "day": 5,
-          "team": "Purdue",
-          "seed": 2,
-          "result": "pending"
-        }
-      ]
+      ],
+      "eliminated_day": 5
     },
     {
       "name": "Pete Shahid",
-      "status": "alive",
-      "rank": 59,
+      "status": "eliminated",
+      "rank": 66,
       "degen_score": 11,
       "picks": [
         {
@@ -2752,14 +3055,15 @@
           "day": 5,
           "team": "Nebraska",
           "seed": 4,
-          "result": "pending"
+          "result": "loss"
         }
-      ]
+      ],
+      "eliminated_day": 5
     },
     {
       "name": "Roger Stewart",
-      "status": "alive",
-      "rank": 60,
+      "status": "eliminated",
+      "rank": 67,
       "degen_score": 11,
       "picks": [
         {
@@ -2790,14 +3094,15 @@
           "day": 5,
           "team": "Nebraska",
           "seed": 4,
-          "result": "pending"
+          "result": "loss"
         }
-      ]
+      ],
+      "eliminated_day": 5
     },
     {
       "name": "Zoe Kaplan",
-      "status": "alive",
-      "rank": 61,
+      "status": "eliminated",
+      "rank": 68,
       "degen_score": 11,
       "picks": [
         {
@@ -2828,313 +3133,49 @@
           "day": 5,
           "team": "Houston",
           "seed": 2,
-          "result": "pending"
+          "result": "loss"
         }
-      ]
-    },
-    {
-      "name": "Harry Kumar",
-      "status": "alive",
-      "rank": 62,
-      "degen_score": 10,
-      "picks": [
-        {
-          "day": 1,
-          "team": "Vanderbilt",
-          "seed": 5,
-          "result": "win"
-        },
-        {
-          "day": 2,
-          "team": "Virginia",
-          "seed": 3,
-          "result": "win"
-        },
-        {
-          "day": 3,
-          "team": "Duke",
-          "seed": 1,
-          "result": "win"
-        },
-        {
-          "day": 4,
-          "team": "Arizona",
-          "seed": 1,
-          "result": "win"
-        },
-        {
-          "day": 5,
-          "team": "Purdue",
-          "seed": 2,
-          "result": "pending"
-        }
-      ]
-    },
-    {
-      "name": "Jai Prasad",
-      "status": "alive",
-      "rank": 63,
-      "degen_score": 10,
-      "picks": [
-        {
-          "day": 1,
-          "team": "Illinois",
-          "seed": 3,
-          "result": "win"
-        },
-        {
-          "day": 2,
-          "team": "Alabama",
-          "seed": 4,
-          "result": "win"
-        },
-        {
-          "day": 3,
-          "team": "Houston",
-          "seed": 2,
-          "result": "win"
-        },
-        {
-          "day": 4,
-          "team": "Arizona",
-          "seed": 1,
-          "result": "win"
-        },
-        {
-          "day": 5,
-          "team": "Purdue",
-          "seed": 2,
-          "result": "pending"
-        }
-      ]
-    },
-    {
-      "name": "Marshall Keppel",
-      "status": "alive",
-      "rank": 64,
-      "degen_score": 10,
-      "picks": [
-        {
-          "day": 1,
-          "team": "Arkansas",
-          "seed": 4,
-          "result": "win"
-        },
-        {
-          "day": 2,
-          "team": "Virginia",
-          "seed": 3,
-          "result": "win"
-        },
-        {
-          "day": 3,
-          "team": "Duke",
-          "seed": 1,
-          "result": "win"
-        },
-        {
-          "day": 4,
-          "team": "Purdue",
-          "seed": 2,
-          "result": "win"
-        },
-        {
-          "day": 5,
-          "team": "Iowa",
-          "seed": 9,
-          "result": "pending"
-        }
-      ]
-    },
-    {
-      "name": "Matt Sternberg",
-      "status": "alive",
-      "rank": 65,
-      "degen_score": 10,
-      "picks": [
-        {
-          "day": 1,
-          "team": "Nebraska",
-          "seed": 4,
-          "result": "win"
-        },
-        {
-          "day": 2,
-          "team": "Purdue",
-          "seed": 2,
-          "result": "win"
-        },
-        {
-          "day": 3,
-          "team": "Houston",
-          "seed": 2,
-          "result": "win"
-        },
-        {
-          "day": 4,
-          "team": "UConn",
-          "seed": 2,
-          "result": "win"
-        },
-        {
-          "day": 5,
-          "team": "Illinois",
-          "seed": 3,
-          "result": "pending"
-        }
-      ]
-    },
-    {
-      "name": "Sarah Moore",
-      "status": "alive",
-      "rank": 66,
-      "degen_score": 10,
-      "picks": [
-        {
-          "day": 1,
-          "team": "Houston",
-          "seed": 2,
-          "result": "win"
-        },
-        {
-          "day": 2,
-          "team": "Virginia",
-          "seed": 3,
-          "result": "win"
-        },
-        {
-          "day": 3,
-          "team": "Illinois",
-          "seed": 3,
-          "result": "win"
-        },
-        {
-          "day": 4,
-          "team": "Iowa State",
-          "seed": 2,
-          "result": "win"
-        },
-        {
-          "day": 5,
-          "team": "Purdue",
-          "seed": 2,
-          "result": "pending"
-        }
-      ]
-    },
-    {
-      "name": "Jacob Beaver",
-      "status": "alive",
-      "rank": 67,
-      "degen_score": 9,
-      "picks": [
-        {
-          "day": 1,
-          "team": "Gonzaga",
-          "seed": 3,
-          "result": "win"
-        },
-        {
-          "day": 2,
-          "team": "Kansas",
-          "seed": 4,
-          "result": "win"
-        },
-        {
-          "day": 3,
-          "team": "Duke",
-          "seed": 1,
-          "result": "win"
-        },
-        {
-          "day": 4,
-          "team": "Arizona",
-          "seed": 1,
-          "result": "win"
-        },
-        {
-          "day": 5,
-          "team": "Purdue",
-          "seed": 2,
-          "result": "pending"
-        }
-      ]
+      ],
+      "eliminated_day": 5
     },
     {
       "name": "Lucas Fritz",
-      "status": "alive",
-      "rank": 68,
-      "degen_score": 8,
-      "picks": [
-        {
-          "day": 1,
-          "team": "Houston",
-          "seed": 2,
-          "result": "win"
-        },
-        {
-          "day": 2,
-          "team": "Virginia",
-          "seed": 3,
-          "result": "win"
-        },
-        {
-          "day": 3,
-          "team": "Michigan",
-          "seed": 1,
-          "result": "win"
-        },
-        {
-          "day": 4,
-          "team": "Purdue",
-          "seed": 2,
-          "result": "win"
-        },
-        {
-          "day": 5,
-          "team": "Nebraska",
-          "seed": 4,
-          "result": "pending"
-        }
-      ]
-    },
-    {
-      "name": "Robert Buck",
-      "status": "alive",
+      "status": "eliminated",
       "rank": 69,
       "degen_score": 8,
       "picks": [
         {
           "day": 1,
-          "team": "Gonzaga",
-          "seed": 3,
-          "result": "win"
-        },
-        {
-          "day": 2,
-          "team": "Purdue",
-          "seed": 2,
-          "result": "win"
-        },
-        {
-          "day": 3,
           "team": "Houston",
           "seed": 2,
           "result": "win"
         },
         {
-          "day": 4,
-          "team": "Arizona",
+          "day": 2,
+          "team": "Virginia",
+          "seed": 3,
+          "result": "win"
+        },
+        {
+          "day": 3,
+          "team": "Michigan",
           "seed": 1,
           "result": "win"
         },
         {
+          "day": 4,
+          "team": "Purdue",
+          "seed": 2,
+          "result": "win"
+        },
+        {
           "day": 5,
-          "team": "Iowa",
-          "seed": 9,
-          "result": "pending"
+          "team": "Nebraska",
+          "seed": 4,
+          "result": "loss"
         }
-      ]
+      ],
+      "eliminated_day": 5
     },
     {
       "name": "Alex Reeves",
@@ -4155,968 +4196,462 @@
       "day": "3/22",
       "alive": 69,
       "label": "Day 4 (3/22)"
+    },
+    {
+      "day": "3/26",
+      "alive": 45,
+      "label": "Day 5 (3/26)"
     }
   ],
   "predictions": {
     "remaining_teams_by_player": {
-      "David Schultz": [
-        "Alabama",
-        "Arizona",
-        "Duke",
-        "Houston",
-        "Illinois",
-        "Iowa",
-        "Iowa State",
-        "Michigan",
-        "Michigan State",
-        "Nebraska",
-        "Purdue",
-        "Tennessee",
-        "Texas",
-        "UConn"
-      ],
-      "Jimmy Erickson": [
-        "Alabama",
-        "Arizona",
-        "Duke",
-        "Houston",
-        "Illinois",
-        "Iowa",
-        "Iowa State",
-        "Michigan",
-        "Michigan State",
-        "Nebraska",
-        "Purdue",
-        "St. John's",
-        "Tennessee",
-        "Texas"
-      ],
-      "Jacob Madsen": [
-        "Alabama",
-        "Arizona",
-        "Duke",
-        "Houston",
-        "Illinois",
-        "Iowa",
-        "Iowa State",
-        "Michigan",
-        "Michigan State",
-        "Nebraska",
-        "Purdue",
-        "Tennessee",
-        "Texas",
-        "UConn"
-      ],
-      "Ashley LaPrade": [
-        "Alabama",
-        "Arizona",
-        "Duke",
-        "Houston",
-        "Illinois",
-        "Iowa",
-        "Michigan",
-        "Michigan State",
-        "Nebraska",
-        "Purdue",
-        "St. John's",
-        "Tennessee",
-        "Texas",
-        "UConn"
-      ],
-      "Robbie Hemstreet": [
-        "Alabama",
-        "Arizona",
-        "Duke",
-        "Houston",
-        "Illinois",
-        "Iowa",
-        "Iowa State",
-        "Michigan",
-        "Michigan State",
-        "Nebraska",
-        "Purdue",
-        "Texas",
-        "UConn"
-      ],
-      "Parker Redelman": [
-        "Alabama",
-        "Arizona",
-        "Duke",
-        "Houston",
-        "Illinois",
-        "Iowa",
-        "Iowa State",
-        "Michigan",
-        "Michigan State",
-        "Purdue",
-        "Texas",
-        "UConn"
-      ],
-      "Jim McMahon": [
-        "Arizona",
-        "Duke",
-        "Houston",
-        "Illinois",
-        "Iowa",
-        "Iowa State",
-        "Michigan",
-        "Michigan State",
-        "Nebraska",
-        "Purdue",
-        "Tennessee",
-        "Texas",
-        "UConn"
-      ],
-      "Matt Romeo": [
-        "Alabama",
-        "Arizona",
-        "Duke",
-        "Houston",
-        "Illinois",
-        "Iowa",
-        "Iowa State",
-        "Michigan",
-        "Michigan State",
-        "Purdue",
-        "St. John's",
-        "Texas",
-        "UConn"
-      ],
-      "Phil Naglieri": [
-        "Alabama",
-        "Arizona",
-        "Duke",
-        "Houston",
-        "Illinois",
-        "Iowa",
-        "Iowa State",
-        "Michigan",
-        "Michigan State",
-        "Purdue",
-        "St. John's",
-        "Texas",
-        "UConn"
-      ],
-      "Tom Fenner": [
-        "Arizona",
-        "Arkansas",
-        "Duke",
-        "Houston",
-        "Iowa",
-        "Iowa State",
-        "Michigan",
-        "Michigan State",
-        "Nebraska",
-        "Purdue",
-        "St. John's",
-        "Texas",
-        "UConn"
-      ],
-      "Andrew Bolin": [
-        "Arizona",
-        "Duke",
-        "Houston",
-        "Illinois",
-        "Iowa",
-        "Iowa State",
-        "Michigan",
-        "Michigan State",
-        "Nebraska",
-        "Purdue",
-        "St. John's",
-        "Texas",
-        "UConn"
-      ],
-      "Matt Giorgis": [
-        "Alabama",
-        "Arizona",
-        "Duke",
-        "Houston",
-        "Illinois",
-        "Iowa",
-        "Iowa State",
-        "Michigan",
-        "Michigan State",
-        "Nebraska",
-        "Purdue",
-        "Tennessee",
-        "Texas",
-        "UConn"
-      ],
-      "Sarah Madigan": [
-        "Alabama",
-        "Arizona",
-        "Duke",
-        "Houston",
-        "Illinois",
-        "Iowa",
-        "Iowa State",
-        "Michigan",
-        "Michigan State",
-        "Nebraska",
-        "Purdue",
-        "Tennessee",
-        "Texas",
-        "UConn"
-      ],
       "Alexa DellaTorre": [
         "Alabama",
         "Arizona",
-        "Arkansas",
         "Duke",
-        "Houston",
         "Illinois",
-        "Iowa",
         "Iowa State",
         "Michigan",
         "Michigan State",
         "Purdue",
         "St. John's",
-        "Tennessee",
-        "Texas"
+        "Tennessee"
       ],
       "Brandon Petillo": [
         "Alabama",
         "Arizona",
-        "Arkansas",
         "Duke",
-        "Houston",
-        "Iowa",
         "Iowa State",
         "Michigan",
         "Michigan State",
         "Purdue",
         "Tennessee",
-        "Texas",
         "UConn"
       ],
       "Gillum Ferguson": [
         "Arizona",
         "Duke",
-        "Houston",
         "Illinois",
-        "Iowa",
         "Iowa State",
         "Michigan",
         "Michigan State",
         "Purdue",
         "St. John's",
         "Tennessee",
-        "Texas",
         "UConn"
       ],
       "Seton Parsons": [
         "Alabama",
         "Arizona",
         "Duke",
-        "Houston",
         "Illinois",
-        "Iowa",
         "Iowa State",
         "Michigan",
         "Michigan State",
-        "Nebraska",
         "Tennessee",
-        "Texas",
         "UConn"
       ],
-      "David Plump": [
+      "Jimmy Erickson": [
         "Alabama",
+        "Arizona",
         "Duke",
-        "Houston",
         "Illinois",
         "Iowa",
         "Iowa State",
         "Michigan",
         "Michigan State",
-        "Purdue",
         "St. John's",
-        "Texas",
-        "UConn"
-      ],
-      "Jason Canaras": [
-        "Alabama",
-        "Arkansas",
-        "Duke",
-        "Houston",
-        "Iowa",
-        "Iowa State",
-        "Michigan",
-        "Michigan State",
-        "Nebraska",
-        "Purdue",
-        "St. John's",
-        "Texas",
-        "UConn"
+        "Tennessee"
       ],
       "Kenny Maher": [
         "Alabama",
         "Duke",
-        "Houston",
         "Illinois",
-        "Iowa",
         "Iowa State",
         "Michigan",
         "Michigan State",
-        "Nebraska",
         "Purdue",
         "Tennessee",
-        "Texas",
         "UConn"
       ],
       "Ryan Hallisey": [
         "Alabama",
         "Arizona",
         "Duke",
-        "Houston",
         "Illinois",
-        "Iowa",
         "Iowa State",
         "Michigan",
-        "Nebraska",
         "Purdue",
         "Tennessee",
-        "Texas",
-        "UConn"
-      ],
-      "Alyssa Elliott": [
-        "Alabama",
-        "Arizona",
-        "Duke",
-        "Houston",
-        "Iowa",
-        "Iowa State",
-        "Michigan",
-        "Michigan State",
-        "Nebraska",
-        "Purdue",
-        "Tennessee",
-        "Texas"
-      ],
-      "Cat Draper": [
-        "Alabama",
-        "Arizona",
-        "Duke",
-        "Houston",
-        "Iowa",
-        "Iowa State",
-        "Michigan",
-        "Michigan State",
-        "Nebraska",
-        "Purdue",
-        "St. John's",
-        "Tennessee",
-        "Texas"
-      ],
-      "Chelsea Vale O'Hara": [
-        "Alabama",
-        "Arizona",
-        "Duke",
-        "Houston",
-        "Iowa",
-        "Michigan",
-        "Michigan State",
-        "Nebraska",
-        "Purdue",
-        "Tennessee",
-        "Texas",
-        "UConn"
-      ],
-      "Courtney Good": [
-        "Alabama",
-        "Arizona",
-        "Arkansas",
-        "Duke",
-        "Houston",
-        "Iowa",
-        "Michigan",
-        "Michigan State",
-        "Nebraska",
-        "Purdue",
-        "St. John's",
-        "Tennessee",
-        "Texas",
-        "UConn"
-      ],
-      "Drew Carpenter": [
-        "Alabama",
-        "Arizona",
-        "Duke",
-        "Houston",
-        "Illinois",
-        "Iowa",
-        "Iowa State",
-        "Michigan",
-        "Nebraska",
-        "Purdue",
-        "Tennessee",
-        "Texas"
-      ],
-      "Mac Brockmyre": [
-        "Alabama",
-        "Arizona",
-        "Arkansas",
-        "Duke",
-        "Houston",
-        "Iowa",
-        "Iowa State",
-        "Michigan",
-        "Nebraska",
-        "Purdue",
-        "Tennessee",
-        "Texas",
-        "UConn"
-      ],
-      "Nolan Dickinson": [
-        "Alabama",
-        "Arizona",
-        "Arkansas",
-        "Duke",
-        "Houston",
-        "Iowa",
-        "Iowa State",
-        "Michigan",
-        "Michigan State",
-        "Purdue",
-        "Tennessee",
-        "Texas"
-      ],
-      "Sarah Gray Moore": [
-        "Alabama",
-        "Arizona",
-        "Arkansas",
-        "Duke",
-        "Illinois",
-        "Iowa",
-        "Michigan",
-        "Michigan State",
-        "Nebraska",
-        "Purdue",
-        "Tennessee",
-        "Texas",
         "UConn"
       ],
       "Toofer Moore": [
         "Alabama",
         "Arizona",
-        "Arkansas",
         "Duke",
-        "Houston",
-        "Iowa",
         "Iowa State",
         "Michigan",
         "Michigan State",
         "St. John's",
         "Tennessee",
-        "Texas",
-        "UConn"
-      ],
-      "Will Weber": [
-        "Alabama",
-        "Arizona",
-        "Duke",
-        "Houston",
-        "Illinois",
-        "Iowa",
-        "Iowa State",
-        "Michigan",
-        "Michigan State",
-        "Nebraska",
-        "Tennessee",
-        "Texas",
         "UConn"
       ],
       "Andrew Madigan": [
         "Alabama",
         "Arizona",
         "Duke",
-        "Houston",
-        "Iowa",
         "Iowa State",
         "Michigan",
         "Michigan State",
-        "Nebraska",
         "Purdue",
         "St. John's",
-        "Tennessee",
-        "Texas"
-      ],
-      "Ashley Zamperini": [
-        "Arizona",
-        "Arkansas",
-        "Duke",
-        "Houston",
-        "Illinois",
-        "Iowa",
-        "Iowa State",
-        "Michigan",
-        "St. John's",
-        "Tennessee",
-        "Texas",
-        "UConn"
-      ],
-      "Chris Higgs": [
-        "Alabama",
-        "Arizona",
-        "Arkansas",
-        "Duke",
-        "Houston",
-        "Iowa",
-        "Iowa State",
-        "Michigan",
-        "Michigan State",
-        "Nebraska",
-        "St. John's",
-        "Tennessee",
-        "Texas",
-        "UConn"
-      ],
-      "Chris Moore": [
-        "Alabama",
-        "Arizona",
-        "Duke",
-        "Houston",
-        "Illinois",
-        "Iowa",
-        "Iowa State",
-        "Michigan",
-        "Michigan State",
-        "Nebraska",
-        "St. John's",
-        "Tennessee",
-        "Texas"
-      ],
-      "Jack Fitzsimmons": [
-        "Alabama",
-        "Arizona",
-        "Duke",
-        "Houston",
-        "Iowa",
-        "Iowa State",
-        "Michigan",
-        "Michigan State",
-        "Nebraska",
-        "St. John's",
-        "Tennessee",
-        "Texas",
-        "UConn"
+        "Tennessee"
       ],
       "Jack Meara": [
         "Arizona",
         "Duke",
-        "Houston",
-        "Iowa",
         "Iowa State",
         "Michigan",
         "Michigan State",
-        "Nebraska",
         "St. John's",
         "Tennessee",
-        "Texas",
         "UConn"
-      ],
-      "Matt Watson": [
-        "Alabama",
-        "Arizona",
-        "Duke",
-        "Houston",
-        "Iowa",
-        "Iowa State",
-        "Michigan",
-        "Michigan State",
-        "Nebraska",
-        "Purdue",
-        "St. John's",
-        "Tennessee",
-        "Texas"
-      ],
-      "Peter Lifson": [
-        "Alabama",
-        "Arizona",
-        "Arkansas",
-        "Duke",
-        "Houston",
-        "Illinois",
-        "Iowa",
-        "Iowa State",
-        "Michigan",
-        "Nebraska",
-        "Tennessee",
-        "Texas",
-        "UConn"
-      ],
-      "Sarah Nielsen": [
-        "Alabama",
-        "Arizona",
-        "Duke",
-        "Houston",
-        "Iowa",
-        "Michigan",
-        "Michigan State",
-        "Nebraska",
-        "Purdue",
-        "St. John's",
-        "Tennessee",
-        "Texas",
-        "UConn"
-      ],
-      "Steven Wexler": [
-        "Alabama",
-        "Arizona",
-        "Duke",
-        "Houston",
-        "Illinois",
-        "Iowa",
-        "Iowa State",
-        "Michigan",
-        "Nebraska",
-        "Purdue",
-        "St. John's",
-        "Tennessee",
-        "Texas"
       ],
       "Sundeep Kulkarni": [
         "Alabama",
         "Duke",
-        "Houston",
-        "Iowa",
-        "Iowa State",
-        "Michigan",
-        "Michigan State",
-        "Nebraska",
-        "Purdue",
-        "Tennessee",
-        "Texas",
-        "UConn"
-      ],
-      "Susanne Dickinson": [
-        "Alabama",
-        "Arizona",
-        "Arkansas",
-        "Duke",
-        "Houston",
-        "Iowa",
-        "Iowa State",
-        "Michigan",
-        "Michigan State",
-        "Nebraska",
-        "Tennessee",
-        "Texas",
-        "UConn"
-      ],
-      "Will Bachman": [
-        "Duke",
-        "Houston",
-        "Illinois",
-        "Iowa",
-        "Iowa State",
-        "Michigan",
-        "Michigan State",
-        "Purdue",
-        "St. John's",
-        "Tennessee",
-        "Texas",
-        "UConn"
-      ],
-      "Brendan Madigan": [
-        "Alabama",
-        "Arizona",
-        "Arkansas",
-        "Duke",
-        "Illinois",
-        "Iowa",
-        "Iowa State",
-        "Michigan",
-        "Michigan State",
-        "Nebraska",
-        "Tennessee",
-        "Texas",
-        "UConn"
-      ],
-      "David Rosenthal": [
-        "Alabama",
-        "Arizona",
-        "Duke",
-        "Houston",
-        "Iowa",
-        "Iowa State",
-        "Michigan",
-        "Michigan State",
-        "Nebraska",
-        "St. John's",
-        "Tennessee",
-        "Texas",
-        "UConn"
-      ],
-      "Jim Shuman": [
-        "Alabama",
-        "Arizona",
-        "Arkansas",
-        "Houston",
-        "Illinois",
-        "Iowa",
         "Iowa State",
         "Michigan",
         "Michigan State",
         "Purdue",
         "Tennessee",
-        "Texas"
+        "UConn"
       ],
       "Jordan Gelband": [
         "Alabama",
         "Arizona",
         "Duke",
-        "Houston",
         "Illinois",
-        "Iowa",
         "Iowa State",
         "Michigan",
-        "Nebraska",
         "Purdue",
         "St. John's",
-        "Tennessee",
-        "Texas"
+        "Tennessee"
       ],
-      "Josh McMahon": [
+      "Parker Redelman": [
         "Alabama",
         "Arizona",
         "Duke",
-        "Houston",
         "Illinois",
         "Iowa",
         "Iowa State",
         "Michigan",
         "Michigan State",
-        "Nebraska",
-        "St. John's",
-        "Tennessee",
-        "Texas",
-        "UConn"
-      ],
-      "Kaitlyn Brockmyre": [
-        "Alabama",
-        "Arizona",
-        "Arkansas",
-        "Duke",
-        "Houston",
-        "Iowa",
-        "Iowa State",
-        "Michigan",
-        "Nebraska",
-        "St. John's",
-        "Tennessee",
-        "Texas",
-        "UConn"
-      ],
-      "Matt Storey": [
-        "Alabama",
-        "Arizona",
-        "Arkansas",
-        "Duke",
-        "Houston",
-        "Iowa",
-        "Michigan",
-        "Michigan State",
-        "Purdue",
-        "St. John's",
-        "Tennessee",
-        "Texas",
-        "UConn"
-      ],
-      "Zach Orlowsky": [
-        "Alabama",
-        "Arizona",
-        "Duke",
-        "Houston",
-        "Iowa",
-        "Iowa State",
-        "Michigan",
-        "Michigan State",
-        "Nebraska",
-        "St. John's",
-        "Tennessee",
-        "Texas",
-        "UConn"
-      ],
-      "Barrett Mears": [
-        "Alabama",
-        "Arizona",
-        "Duke",
-        "Houston",
-        "Iowa",
-        "Michigan",
-        "Michigan State",
-        "Nebraska",
-        "Purdue",
-        "St. John's",
-        "Tennessee",
-        "Texas"
-      ],
-      "Chris Reeves": [
-        "Alabama",
-        "Arizona",
-        "Arkansas",
-        "Duke",
-        "Houston",
-        "Illinois",
-        "Iowa",
-        "Iowa State",
-        "Michigan State",
-        "Nebraska",
-        "St. John's",
-        "Tennessee",
-        "Texas",
         "UConn"
       ],
       "Gus Nielsen": [
         "Alabama",
         "Arizona",
         "Duke",
-        "Houston",
-        "Iowa",
         "Iowa State",
         "Michigan",
         "Michigan State",
-        "Nebraska",
         "St. John's",
-        "Tennessee",
-        "Texas"
+        "Tennessee"
       ],
       "Jared Spector": [
         "Alabama",
         "Arizona",
         "Duke",
-        "Houston",
-        "Iowa",
         "Michigan",
         "Michigan State",
-        "Nebraska",
         "St. John's",
         "Tennessee",
-        "Texas",
         "UConn"
       ],
-      "Marty LaPrade": [
-        "Alabama",
-        "Arizona",
-        "Arkansas",
-        "Duke",
-        "Illinois",
-        "Iowa",
-        "Michigan",
-        "Nebraska",
-        "Purdue",
-        "St. John's",
-        "Tennessee",
-        "Texas",
-        "UConn"
-      ],
-      "McKay Elliott": [
-        "Alabama",
+      "Jim McMahon": [
         "Arizona",
         "Duke",
-        "Houston",
-        "Illinois",
-        "Iowa",
-        "Michigan",
-        "Nebraska",
-        "Purdue",
-        "St. John's",
-        "Tennessee",
-        "Texas"
-      ],
-      "Pete Shahid": [
-        "Arizona",
-        "Houston",
-        "Illinois",
-        "Iowa",
-        "Michigan",
-        "Michigan State",
-        "Nebraska",
-        "Purdue",
-        "St. John's",
-        "Tennessee",
-        "Texas",
-        "UConn"
-      ],
-      "Roger Stewart": [
-        "Alabama",
-        "Arizona",
-        "Duke",
-        "Houston",
-        "Iowa",
-        "Michigan",
-        "Michigan State",
-        "Nebraska",
-        "Purdue",
-        "St. John's",
-        "Tennessee",
-        "Texas"
-      ],
-      "Zoe Kaplan": [
-        "Alabama",
-        "Arkansas",
-        "Houston",
         "Illinois",
         "Iowa",
         "Iowa State",
         "Michigan",
         "Michigan State",
-        "Purdue",
         "Tennessee",
-        "Texas",
         "UConn"
       ],
-      "Harry Kumar": [
+      "Matt Romeo": [
         "Alabama",
-        "Arkansas",
-        "Houston",
+        "Arizona",
+        "Duke",
         "Illinois",
         "Iowa",
         "Iowa State",
         "Michigan",
         "Michigan State",
-        "Nebraska",
-        "Purdue",
         "St. John's",
-        "Tennessee",
-        "Texas",
         "UConn"
       ],
-      "Jai Prasad": [
-        "Arkansas",
+      "Phil Naglieri": [
+        "Alabama",
+        "Arizona",
         "Duke",
+        "Illinois",
         "Iowa",
         "Iowa State",
         "Michigan",
         "Michigan State",
-        "Nebraska",
-        "Purdue",
         "St. John's",
-        "Tennessee",
-        "Texas",
         "UConn"
       ],
       "Marshall Keppel": [
         "Alabama",
         "Arizona",
-        "Houston",
+        "Illinois",
+        "Iowa State",
+        "Michigan",
+        "Michigan State",
+        "St. John's",
+        "Tennessee",
+        "UConn"
+      ],
+      "Matt Giorgis": [
+        "Alabama",
+        "Arizona",
+        "Duke",
         "Illinois",
         "Iowa",
         "Iowa State",
         "Michigan",
         "Michigan State",
-        "Nebraska",
+        "Tennessee",
+        "UConn"
+      ],
+      "David Plump": [
+        "Alabama",
+        "Duke",
+        "Illinois",
+        "Iowa",
+        "Iowa State",
+        "Michigan",
+        "Michigan State",
+        "St. John's",
+        "UConn"
+      ],
+      "Robert Buck": [
+        "Alabama",
+        "Duke",
+        "Illinois",
+        "Iowa State",
+        "Michigan",
+        "Michigan State",
         "St. John's",
         "Tennessee",
-        "Texas",
+        "UConn"
+      ],
+      "Cat Draper": [
+        "Alabama",
+        "Arizona",
+        "Duke",
+        "Iowa",
+        "Iowa State",
+        "Michigan",
+        "Michigan State",
+        "St. John's",
+        "Tennessee"
+      ],
+      "Chris Moore": [
+        "Alabama",
+        "Arizona",
+        "Duke",
+        "Iowa",
+        "Iowa State",
+        "Michigan",
+        "Michigan State",
+        "St. John's",
+        "Tennessee"
+      ],
+      "Courtney Good": [
+        "Alabama",
+        "Arizona",
+        "Duke",
+        "Iowa",
+        "Michigan",
+        "Michigan State",
+        "St. John's",
+        "Tennessee",
+        "UConn"
+      ],
+      "Drew Carpenter": [
+        "Alabama",
+        "Arizona",
+        "Duke",
+        "Illinois",
+        "Iowa",
+        "Iowa State",
+        "Michigan",
+        "Tennessee"
+      ],
+      "Mac Brockmyre": [
+        "Alabama",
+        "Arizona",
+        "Duke",
+        "Iowa",
+        "Iowa State",
+        "Michigan",
+        "Tennessee",
+        "UConn"
+      ],
+      "Nolan Dickinson": [
+        "Alabama",
+        "Arizona",
+        "Duke",
+        "Iowa",
+        "Iowa State",
+        "Michigan",
+        "Michigan State",
+        "Tennessee"
+      ],
+      "Matt Watson": [
+        "Alabama",
+        "Arizona",
+        "Duke",
+        "Iowa",
+        "Iowa State",
+        "Michigan",
+        "Michigan State",
+        "St. John's",
+        "Tennessee"
+      ],
+      "Sarah Gray Moore": [
+        "Alabama",
+        "Duke",
+        "Illinois",
+        "Iowa",
+        "Michigan",
+        "Michigan State",
+        "Purdue",
+        "Tennessee",
+        "UConn"
+      ],
+      "Steven Wexler": [
+        "Alabama",
+        "Arizona",
+        "Duke",
+        "Illinois",
+        "Iowa",
+        "Iowa State",
+        "Michigan",
+        "St. John's",
+        "Tennessee"
+      ],
+      "Will Bachman": [
+        "Duke",
+        "Illinois",
+        "Iowa",
+        "Iowa State",
+        "Michigan",
+        "Michigan State",
+        "St. John's",
+        "Tennessee",
+        "UConn"
+      ],
+      "Ashley Zamperini": [
+        "Duke",
+        "Illinois",
+        "Iowa",
+        "Iowa State",
+        "Michigan",
+        "St. John's",
+        "Tennessee",
+        "UConn"
+      ],
+      "Chris Higgs": [
+        "Alabama",
+        "Duke",
+        "Iowa",
+        "Iowa State",
+        "Michigan",
+        "Michigan State",
+        "St. John's",
+        "Tennessee",
+        "UConn"
+      ],
+      "Matt Storey": [
+        "Alabama",
+        "Arizona",
+        "Duke",
+        "Iowa",
+        "Michigan",
+        "Michigan State",
+        "St. John's",
+        "Tennessee",
+        "UConn"
+      ],
+      "Susanne Dickinson": [
+        "Alabama",
+        "Duke",
+        "Iowa",
+        "Iowa State",
+        "Michigan",
+        "Michigan State",
+        "Tennessee",
+        "UConn"
+      ],
+      "Barrett Mears": [
+        "Alabama",
+        "Arizona",
+        "Duke",
+        "Iowa",
+        "Michigan",
+        "Michigan State",
+        "St. John's",
+        "Tennessee"
+      ],
+      "Kaitlyn Brockmyre": [
+        "Alabama",
+        "Duke",
+        "Iowa",
+        "Iowa State",
+        "Michigan",
+        "St. John's",
+        "Tennessee",
+        "UConn"
+      ],
+      "Marty LaPrade": [
+        "Alabama",
+        "Arizona",
+        "Duke",
+        "Illinois",
+        "Iowa",
+        "Michigan",
+        "St. John's",
+        "Tennessee",
         "UConn"
       ],
       "Matt Sternberg": [
         "Alabama",
         "Arizona",
-        "Arkansas",
         "Duke",
+        "Iowa",
+        "Iowa State",
+        "Michigan",
+        "Michigan State",
+        "St. John's",
+        "Tennessee"
+      ],
+      "McKay Elliott": [
+        "Alabama",
+        "Arizona",
+        "Duke",
+        "Illinois",
+        "Iowa",
+        "Michigan",
+        "St. John's",
+        "Tennessee"
+      ],
+      "Harry Kumar": [
+        "Alabama",
         "Illinois",
         "Iowa",
         "Iowa State",
@@ -5124,134 +4659,89 @@
         "Michigan State",
         "St. John's",
         "Tennessee",
-        "Texas"
+        "UConn"
+      ],
+      "Jai Prasad": [
+        "Duke",
+        "Iowa",
+        "Iowa State",
+        "Michigan",
+        "Michigan State",
+        "St. John's",
+        "Tennessee",
+        "UConn"
       ],
       "Sarah Moore": [
         "Alabama",
         "Arizona",
-        "Arkansas",
         "Duke",
         "Iowa",
         "Michigan",
         "Michigan State",
-        "Nebraska",
-        "Purdue",
         "St. John's",
         "Tennessee",
-        "Texas",
         "UConn"
       ],
       "Jacob Beaver": [
         "Alabama",
-        "Arkansas",
-        "Houston",
         "Illinois",
         "Iowa",
         "Iowa State",
         "Michigan",
         "Michigan State",
-        "Nebraska",
-        "Purdue",
         "St. John's",
         "Tennessee",
-        "Texas",
-        "UConn"
-      ],
-      "Lucas Fritz": [
-        "Alabama",
-        "Arizona",
-        "Arkansas",
-        "Duke",
-        "Illinois",
-        "Iowa",
-        "Iowa State",
-        "Michigan State",
-        "Nebraska",
-        "St. John's",
-        "Tennessee",
-        "Texas",
-        "UConn"
-      ],
-      "Robert Buck": [
-        "Alabama",
-        "Arkansas",
-        "Duke",
-        "Illinois",
-        "Iowa",
-        "Iowa State",
-        "Michigan",
-        "Michigan State",
-        "Nebraska",
-        "St. John's",
-        "Tennessee",
-        "Texas",
         "UConn"
       ]
     },
     "pick_overlap": {
       "Alabama": {
         "times_used": 14,
-        "alive_users_used": 9
+        "alive_users_used": 6
       },
       "Arizona": {
-        "times_used": 11,
-        "alive_users_used": 10
-      },
-      "Arkansas": {
-        "times_used": 47,
-        "alive_users_used": 42
+        "times_used": 16,
+        "alive_users_used": 13
       },
       "Duke": {
         "times_used": 8,
-        "alive_users_used": 6
-      },
-      "Houston": {
-        "times_used": 11,
-        "alive_users_used": 8
+        "alive_users_used": 3
       },
       "Illinois": {
-        "times_used": 41,
-        "alive_users_used": 28
+        "times_used": 43,
+        "alive_users_used": 21
       },
       "Iowa": {
-        "times_used": 0,
-        "alive_users_used": 0
+        "times_used": 15,
+        "alive_users_used": 15
       },
       "Iowa State": {
         "times_used": 13,
-        "alive_users_used": 13
+        "alive_users_used": 8
       },
       "Michigan": {
         "times_used": 3,
-        "alive_users_used": 2
+        "alive_users_used": 0
       },
       "Michigan State": {
         "times_used": 14,
-        "alive_users_used": 10
-      },
-      "Nebraska": {
-        "times_used": 19,
-        "alive_users_used": 15
+        "alive_users_used": 9
       },
       "Purdue": {
-        "times_used": 23,
-        "alive_users_used": 22
+        "times_used": 46,
+        "alive_users_used": 36
       },
       "St. John's": {
         "times_used": 26,
-        "alive_users_used": 24
+        "alive_users_used": 13
       },
       "Tennessee": {
         "times_used": 8,
-        "alive_users_used": 8
-      },
-      "Texas": {
-        "times_used": 0,
-        "alive_users_used": 0
+        "alive_users_used": 4
       },
       "UConn": {
         "times_used": 19,
-        "alive_users_used": 17
+        "alive_users_used": 14
       }
     }
   }
