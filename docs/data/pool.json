@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-03-28T15:36:53.310378+00:00",
+  "exported_at": "2026-03-28T22:37:31.890903+00:00",
   "meta": {
     "pool_name": "Temple's Madness Survivor Pool 2026",
     "season": 2026,
@@ -7,10 +7,10 @@
     "total_players": 110,
     "alive_players": 16,
     "eliminated_players": 94,
-    "current_day": 6,
+    "current_day": 7,
     "total_days": 10,
     "pot": 2750,
-    "last_updated": "2026-03-28T15:36:53.310392+00:00"
+    "last_updated": "2026-03-28T22:37:31.890917+00:00"
   },
   "team_seeds": {
     "Akron": 12,
@@ -589,6 +589,46 @@
         "survivors": 16,
         "eliminated": 94
       }
+    },
+    {
+      "day": 7,
+      "date": "2026-03-28",
+      "label": "Elite Eight - Day 1",
+      "status": "pending",
+      "available_teams": [
+        "Arizona",
+        "Illinois",
+        "Iowa",
+        "Purdue"
+      ],
+      "winners": [],
+      "losers": [],
+      "upsets": [],
+      "stats": {
+        "most_picked_today": {
+          "team": "Illinois",
+          "count": 7,
+          "result": "pending"
+        },
+        "biggest_degen_pick": {
+          "player": "Cat Draper",
+          "team": "Iowa",
+          "seed": 9,
+          "result": "pending"
+        },
+        "deadliest_team": {
+          "team": "—",
+          "kills": 0,
+          "seed": 0
+        },
+        "chalk_king": {
+          "player": "—",
+          "team": "—",
+          "seed": 0
+        },
+        "survivors": 16,
+        "eliminated": 94
+      }
     }
   ],
   "players": [
@@ -633,6 +673,12 @@
           "team": "Tennessee",
           "seed": 6,
           "result": "win"
+        },
+        {
+          "day": 7,
+          "team": "Arizona",
+          "seed": 1,
+          "result": "pending"
         }
       ]
     },
@@ -677,6 +723,12 @@
           "team": "Tennessee",
           "seed": 6,
           "result": "win"
+        },
+        {
+          "day": 7,
+          "team": "Arizona",
+          "seed": 1,
+          "result": "pending"
         }
       ]
     },
@@ -721,6 +773,12 @@
           "team": "Tennessee",
           "seed": 6,
           "result": "win"
+        },
+        {
+          "day": 7,
+          "team": "Illinois",
+          "seed": 3,
+          "result": "pending"
         }
       ]
     },
@@ -765,6 +823,12 @@
           "team": "Duke",
           "seed": 1,
           "result": "win"
+        },
+        {
+          "day": 7,
+          "team": "Arizona",
+          "seed": 1,
+          "result": "pending"
         }
       ]
     },
@@ -809,6 +873,12 @@
           "team": "UConn",
           "seed": 2,
           "result": "win"
+        },
+        {
+          "day": 7,
+          "team": "Illinois",
+          "seed": 3,
+          "result": "pending"
         }
       ]
     },
@@ -853,6 +923,12 @@
           "team": "Duke",
           "seed": 1,
           "result": "win"
+        },
+        {
+          "day": 7,
+          "team": "Illinois",
+          "seed": 3,
+          "result": "pending"
         }
       ]
     },
@@ -897,6 +973,12 @@
           "team": "Michigan",
           "seed": 1,
           "result": "win"
+        },
+        {
+          "day": 7,
+          "team": "Iowa",
+          "seed": 9,
+          "result": "pending"
         }
       ]
     },
@@ -941,6 +1023,12 @@
           "team": "Michigan",
           "seed": 1,
           "result": "win"
+        },
+        {
+          "day": 7,
+          "team": "Arizona",
+          "seed": 1,
+          "result": "pending"
         }
       ]
     },
@@ -985,6 +1073,12 @@
           "team": "Michigan",
           "seed": 1,
           "result": "win"
+        },
+        {
+          "day": 7,
+          "team": "Purdue",
+          "seed": 2,
+          "result": "pending"
         }
       ]
     },
@@ -1029,6 +1123,12 @@
           "team": "Michigan",
           "seed": 1,
           "result": "win"
+        },
+        {
+          "day": 7,
+          "team": "Illinois",
+          "seed": 3,
+          "result": "pending"
         }
       ]
     },
@@ -1073,6 +1173,12 @@
           "team": "Michigan",
           "seed": 1,
           "result": "win"
+        },
+        {
+          "day": 7,
+          "team": "Illinois",
+          "seed": 3,
+          "result": "pending"
         }
       ]
     },
@@ -1117,6 +1223,12 @@
           "team": "UConn",
           "seed": 2,
           "result": "win"
+        },
+        {
+          "day": 7,
+          "team": "Illinois",
+          "seed": 3,
+          "result": "pending"
         }
       ]
     },
@@ -1161,6 +1273,12 @@
           "team": "Michigan",
           "seed": 1,
           "result": "win"
+        },
+        {
+          "day": 7,
+          "team": "Iowa",
+          "seed": 9,
+          "result": "pending"
         }
       ]
     },
@@ -1205,6 +1323,12 @@
           "team": "Duke",
           "seed": 1,
           "result": "win"
+        },
+        {
+          "day": 7,
+          "team": "Iowa",
+          "seed": 9,
+          "result": "pending"
         }
       ]
     },
@@ -1249,6 +1373,12 @@
           "team": "Michigan",
           "seed": 1,
           "result": "win"
+        },
+        {
+          "day": 7,
+          "team": "Illinois",
+          "seed": 3,
+          "result": "pending"
         }
       ]
     },
@@ -1293,6 +1423,12 @@
           "team": "Duke",
           "seed": 1,
           "result": "win"
+        },
+        {
+          "day": 7,
+          "team": "Iowa",
+          "seed": 9,
+          "result": "pending"
         }
       ]
     },
