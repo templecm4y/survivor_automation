@@ -1,16 +1,16 @@
 {
-  "exported_at": "2026-03-29T18:52:43.004007+00:00",
+  "exported_at": "2026-03-30T04:59:58.616812+00:00",
   "meta": {
     "pool_name": "Temple's Madness Survivor Pool 2026",
     "season": 2026,
     "entry_fee": 25,
     "total_players": 110,
-    "alive_players": 11,
-    "eliminated_players": 99,
+    "alive_players": 6,
+    "eliminated_players": 104,
     "current_day": 8,
     "total_days": 10,
     "pot": 2750,
-    "last_updated": "2026-03-29T18:52:43.004021+00:00"
+    "last_updated": "2026-03-30T04:59:58.616832+00:00"
   },
   "team_seeds": {
     "Akron": 12,
@@ -198,7 +198,7 @@
           "seed": 5
         },
         "chalk_king": {
-          "player": "Steven Wexler",
+          "player": "Marty LaPrade",
           "team": "Michigan State",
           "seed": 3
         },
@@ -521,9 +521,9 @@
           "seed": 4
         },
         "chalk_king": {
-          "player": "Ashley Zamperini",
-          "team": "Arizona",
-          "seed": 1
+          "player": "Matt Romeo",
+          "team": "Purdue",
+          "seed": 2
         },
         "survivors": 45,
         "eliminated": 65
@@ -582,7 +582,7 @@
           "seed": 2
         },
         "chalk_king": {
-          "player": "Toofer Moore",
+          "player": "David Plump",
           "team": "Duke",
           "seed": 1
         },
@@ -640,40 +640,46 @@
       "day": 8,
       "date": "2026-03-29",
       "label": "Elite Eight - Day 2",
-      "status": "pending",
+      "status": "final",
       "available_teams": [
         "Duke",
         "Michigan",
         "Tennessee",
         "UConn"
       ],
-      "winners": [],
-      "losers": [],
+      "winners": [
+        "Michigan",
+        "UConn"
+      ],
+      "losers": [
+        "Duke",
+        "Tennessee"
+      ],
       "upsets": [],
       "stats": {
         "most_picked_today": {
           "team": "Michigan",
           "count": 4,
-          "result": "pending"
+          "result": "win"
         },
         "biggest_degen_pick": {
-          "player": "Toofer Moore",
-          "team": "Tennessee",
-          "seed": 6,
-          "result": "pending"
+          "player": "Jared Spector",
+          "team": "UConn",
+          "seed": 2,
+          "result": "win"
         },
         "deadliest_team": {
-          "team": "—",
-          "kills": 0,
-          "seed": 0
+          "team": "Tennessee",
+          "kills": 4,
+          "seed": 6
         },
         "chalk_king": {
-          "player": "—",
-          "team": "—",
-          "seed": 0
+          "player": "Jack Meara",
+          "team": "Michigan",
+          "seed": 1
         },
-        "survivors": 11,
-        "eliminated": 99
+        "survivors": 6,
+        "eliminated": 104
       }
     }
   ],
@@ -682,7 +688,7 @@
       "name": "Jack Meara",
       "status": "alive",
       "rank": 1,
-      "degen_score": 29,
+      "degen_score": 30,
       "picks": [
         {
           "day": 1,
@@ -730,71 +736,15 @@
           "day": 8,
           "team": "Michigan",
           "seed": 1,
-          "result": "pending"
-        }
-      ]
-    },
-    {
-      "name": "Marshall Keppel",
-      "status": "alive",
-      "rank": 2,
-      "degen_score": 28,
-      "picks": [
-        {
-          "day": 1,
-          "team": "Arkansas",
-          "seed": 4,
           "result": "win"
-        },
-        {
-          "day": 2,
-          "team": "Virginia",
-          "seed": 3,
-          "result": "win"
-        },
-        {
-          "day": 3,
-          "team": "Duke",
-          "seed": 1,
-          "result": "win"
-        },
-        {
-          "day": 4,
-          "team": "Purdue",
-          "seed": 2,
-          "result": "win"
-        },
-        {
-          "day": 5,
-          "team": "Iowa",
-          "seed": 9,
-          "result": "win"
-        },
-        {
-          "day": 6,
-          "team": "Tennessee",
-          "seed": 6,
-          "result": "win"
-        },
-        {
-          "day": 7,
-          "team": "Illinois",
-          "seed": 3,
-          "result": "win"
-        },
-        {
-          "day": 8,
-          "team": "Michigan",
-          "seed": 1,
-          "result": "pending"
         }
       ]
     },
     {
       "name": "Jared Spector",
       "status": "alive",
-      "rank": 3,
-      "degen_score": 27,
+      "rank": 2,
+      "degen_score": 29,
       "picks": [
         {
           "day": 1,
@@ -842,7 +792,63 @@
           "day": 8,
           "team": "UConn",
           "seed": 2,
-          "result": "pending"
+          "result": "win"
+        }
+      ]
+    },
+    {
+      "name": "Marshall Keppel",
+      "status": "alive",
+      "rank": 3,
+      "degen_score": 29,
+      "picks": [
+        {
+          "day": 1,
+          "team": "Arkansas",
+          "seed": 4,
+          "result": "win"
+        },
+        {
+          "day": 2,
+          "team": "Virginia",
+          "seed": 3,
+          "result": "win"
+        },
+        {
+          "day": 3,
+          "team": "Duke",
+          "seed": 1,
+          "result": "win"
+        },
+        {
+          "day": 4,
+          "team": "Purdue",
+          "seed": 2,
+          "result": "win"
+        },
+        {
+          "day": 5,
+          "team": "Iowa",
+          "seed": 9,
+          "result": "win"
+        },
+        {
+          "day": 6,
+          "team": "Tennessee",
+          "seed": 6,
+          "result": "win"
+        },
+        {
+          "day": 7,
+          "team": "Illinois",
+          "seed": 3,
+          "result": "win"
+        },
+        {
+          "day": 8,
+          "team": "Michigan",
+          "seed": 1,
+          "result": "win"
         }
       ]
     },
@@ -850,7 +856,7 @@
       "name": "Matt Romeo",
       "status": "alive",
       "rank": 4,
-      "degen_score": 25,
+      "degen_score": 26,
       "picks": [
         {
           "day": 1,
@@ -898,14 +904,126 @@
           "day": 8,
           "team": "Michigan",
           "seed": 1,
-          "result": "pending"
+          "result": "win"
+        }
+      ]
+    },
+    {
+      "name": "David Plump",
+      "status": "alive",
+      "rank": 5,
+      "degen_score": 23,
+      "picks": [
+        {
+          "day": 1,
+          "team": "Nebraska",
+          "seed": 4,
+          "result": "win"
+        },
+        {
+          "day": 2,
+          "team": "Tennessee",
+          "seed": 6,
+          "result": "win"
+        },
+        {
+          "day": 3,
+          "team": "Arkansas",
+          "seed": 4,
+          "result": "win"
+        },
+        {
+          "day": 4,
+          "team": "Arizona",
+          "seed": 1,
+          "result": "win"
+        },
+        {
+          "day": 5,
+          "team": "Purdue",
+          "seed": 2,
+          "result": "win"
+        },
+        {
+          "day": 6,
+          "team": "Duke",
+          "seed": 1,
+          "result": "win"
+        },
+        {
+          "day": 7,
+          "team": "Illinois",
+          "seed": 3,
+          "result": "win"
+        },
+        {
+          "day": 8,
+          "team": "UConn",
+          "seed": 2,
+          "result": "win"
+        }
+      ]
+    },
+    {
+      "name": "Marty LaPrade",
+      "status": "alive",
+      "rank": 6,
+      "degen_score": 19,
+      "picks": [
+        {
+          "day": 1,
+          "team": "Michigan State",
+          "seed": 3,
+          "result": "win"
+        },
+        {
+          "day": 2,
+          "team": "Kansas",
+          "seed": 4,
+          "result": "win"
+        },
+        {
+          "day": 3,
+          "team": "Houston",
+          "seed": 2,
+          "result": "win"
+        },
+        {
+          "day": 4,
+          "team": "Iowa State",
+          "seed": 2,
+          "result": "win"
+        },
+        {
+          "day": 5,
+          "team": "Purdue",
+          "seed": 2,
+          "result": "win"
+        },
+        {
+          "day": 6,
+          "team": "UConn",
+          "seed": 2,
+          "result": "win"
+        },
+        {
+          "day": 7,
+          "team": "Illinois",
+          "seed": 3,
+          "result": "win"
+        },
+        {
+          "day": 8,
+          "team": "Michigan",
+          "seed": 1,
+          "result": "win"
         }
       ]
     },
     {
       "name": "Toofer Moore",
-      "status": "alive",
-      "rank": 5,
+      "status": "eliminated",
+      "rank": 7,
       "degen_score": 25,
       "picks": [
         {
@@ -954,70 +1072,15 @@
           "day": 8,
           "team": "Tennessee",
           "seed": 6,
-          "result": "pending"
+          "result": "loss"
         }
-      ]
-    },
-    {
-      "name": "David Plump",
-      "status": "alive",
-      "rank": 6,
-      "degen_score": 21,
-      "picks": [
-        {
-          "day": 1,
-          "team": "Nebraska",
-          "seed": 4,
-          "result": "win"
-        },
-        {
-          "day": 2,
-          "team": "Tennessee",
-          "seed": 6,
-          "result": "win"
-        },
-        {
-          "day": 3,
-          "team": "Arkansas",
-          "seed": 4,
-          "result": "win"
-        },
-        {
-          "day": 4,
-          "team": "Arizona",
-          "seed": 1,
-          "result": "win"
-        },
-        {
-          "day": 5,
-          "team": "Purdue",
-          "seed": 2,
-          "result": "win"
-        },
-        {
-          "day": 6,
-          "team": "Duke",
-          "seed": 1,
-          "result": "win"
-        },
-        {
-          "day": 7,
-          "team": "Illinois",
-          "seed": 3,
-          "result": "win"
-        },
-        {
-          "day": 8,
-          "team": "UConn",
-          "seed": 2,
-          "result": "pending"
-        }
-      ]
+      ],
+      "eliminated_day": 8
     },
     {
       "name": "Steven Wexler",
-      "status": "alive",
-      "rank": 7,
+      "status": "eliminated",
+      "rank": 8,
       "degen_score": 19,
       "picks": [
         {
@@ -1066,14 +1129,15 @@
           "day": 8,
           "team": "Duke",
           "seed": 1,
-          "result": "pending"
+          "result": "loss"
         }
-      ]
+      ],
+      "eliminated_day": 8
     },
     {
       "name": "Ashley Zamperini",
-      "status": "alive",
-      "rank": 8,
+      "status": "eliminated",
+      "rank": 9,
       "degen_score": 18,
       "picks": [
         {
@@ -1122,69 +1186,14 @@
           "day": 8,
           "team": "Tennessee",
           "seed": 6,
-          "result": "pending"
+          "result": "loss"
         }
-      ]
-    },
-    {
-      "name": "Marty LaPrade",
-      "status": "alive",
-      "rank": 9,
-      "degen_score": 18,
-      "picks": [
-        {
-          "day": 1,
-          "team": "Michigan State",
-          "seed": 3,
-          "result": "win"
-        },
-        {
-          "day": 2,
-          "team": "Kansas",
-          "seed": 4,
-          "result": "win"
-        },
-        {
-          "day": 3,
-          "team": "Houston",
-          "seed": 2,
-          "result": "win"
-        },
-        {
-          "day": 4,
-          "team": "Iowa State",
-          "seed": 2,
-          "result": "win"
-        },
-        {
-          "day": 5,
-          "team": "Purdue",
-          "seed": 2,
-          "result": "win"
-        },
-        {
-          "day": 6,
-          "team": "UConn",
-          "seed": 2,
-          "result": "win"
-        },
-        {
-          "day": 7,
-          "team": "Illinois",
-          "seed": 3,
-          "result": "win"
-        },
-        {
-          "day": 8,
-          "team": "Michigan",
-          "seed": 1,
-          "result": "pending"
-        }
-      ]
+      ],
+      "eliminated_day": 8
     },
     {
       "name": "Matt Watson",
-      "status": "alive",
+      "status": "eliminated",
       "rank": 10,
       "degen_score": 17,
       "picks": [
@@ -1234,13 +1243,14 @@
           "day": 8,
           "team": "Tennessee",
           "seed": 6,
-          "result": "pending"
+          "result": "loss"
         }
-      ]
+      ],
+      "eliminated_day": 8
     },
     {
       "name": "McKay Elliott",
-      "status": "alive",
+      "status": "eliminated",
       "rank": 11,
       "degen_score": 17,
       "picks": [
@@ -1290,9 +1300,10 @@
           "day": 8,
           "team": "Tennessee",
           "seed": 6,
-          "result": "pending"
+          "result": "loss"
         }
-      ]
+      ],
+      "eliminated_day": 8
     },
     {
       "name": "Cat Draper",
@@ -4824,89 +4835,51 @@
       "day": "3/28",
       "alive": 11,
       "label": "Day 7 (3/28)"
+    },
+    {
+      "day": "3/29",
+      "alive": 6,
+      "label": "Day 8 (3/29)"
     }
   ],
   "predictions": {
     "remaining_teams_by_player": {
       "Jack Meara": [
-        "Duke",
-        "Michigan",
-        "UConn"
-      ],
-      "Marshall Keppel": [
-        "Arizona",
-        "Michigan",
         "UConn"
       ],
       "Jared Spector": [
-        "Duke",
-        "Michigan",
+        "Michigan"
+      ],
+      "Marshall Keppel": [
+        "Arizona",
         "UConn"
       ],
       "Matt Romeo": [
-        "Arizona",
-        "Duke",
-        "Michigan"
-      ],
-      "Toofer Moore": [
-        "Michigan",
-        "Tennessee",
-        "UConn"
+        "Arizona"
       ],
       "David Plump": [
-        "Michigan",
-        "UConn"
-      ],
-      "Steven Wexler": [
-        "Arizona",
-        "Duke",
-        "Tennessee"
-      ],
-      "Ashley Zamperini": [
-        "Duke",
-        "Tennessee",
-        "UConn"
+        "Michigan"
       ],
       "Marty LaPrade": [
-        "Arizona",
-        "Duke",
-        "Michigan",
-        "Tennessee"
-      ],
-      "Matt Watson": [
-        "Duke",
-        "Tennessee"
-      ],
-      "McKay Elliott": [
-        "Arizona",
-        "Duke",
-        "Tennessee"
+        "Arizona"
       ]
     },
     "pick_overlap": {
       "Arizona": {
         "times_used": 20,
-        "alive_users_used": 6
-      },
-      "Duke": {
-        "times_used": 12,
         "alive_users_used": 3
       },
       "Illinois": {
         "times_used": 50,
-        "alive_users_used": 11
+        "alive_users_used": 6
       },
       "Michigan": {
-        "times_used": 10,
+        "times_used": 14,
         "alive_users_used": 4
       },
-      "Tennessee": {
-        "times_used": 11,
-        "alive_users_used": 5
-      },
       "UConn": {
-        "times_used": 21,
-        "alive_users_used": 5
+        "times_used": 23,
+        "alive_users_used": 4
       }
     }
   }
