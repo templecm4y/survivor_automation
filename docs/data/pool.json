@@ -1,5 +1,5 @@
 {
-  "exported_at": "2026-03-30T04:59:58.616812+00:00",
+  "exported_at": "2026-04-04T20:10:21.847549+00:00",
   "meta": {
     "pool_name": "Temple's Madness Survivor Pool 2026",
     "season": 2026,
@@ -7,10 +7,10 @@
     "total_players": 110,
     "alive_players": 6,
     "eliminated_players": 104,
-    "current_day": 8,
+    "current_day": 9,
     "total_days": 10,
     "pot": 2750,
-    "last_updated": "2026-03-30T04:59:58.616832+00:00"
+    "last_updated": "2026-04-04T20:10:21.847549+00:00"
   },
   "team_seeds": {
     "Akron": 12,
@@ -681,6 +681,46 @@
         "survivors": 6,
         "eliminated": 104
       }
+    },
+    {
+      "day": 9,
+      "date": "2026-04-04",
+      "label": "Final Four",
+      "status": "pending",
+      "available_teams": [
+        "Arizona",
+        "Illinois",
+        "Michigan",
+        "UConn"
+      ],
+      "winners": [],
+      "losers": [],
+      "upsets": [],
+      "stats": {
+        "most_picked_today": {
+          "team": "UConn",
+          "count": 2,
+          "result": "pending"
+        },
+        "biggest_degen_pick": {
+          "player": "Jack Meara",
+          "team": "UConn",
+          "seed": 2,
+          "result": "pending"
+        },
+        "deadliest_team": {
+          "team": "—",
+          "kills": 0,
+          "seed": 0
+        },
+        "chalk_king": {
+          "player": "—",
+          "team": "—",
+          "seed": 0
+        },
+        "survivors": 6,
+        "eliminated": 104
+      }
     }
   ],
   "players": [
@@ -737,6 +777,12 @@
           "team": "Michigan",
           "seed": 1,
           "result": "win"
+        },
+        {
+          "day": 9,
+          "team": "UConn",
+          "seed": 2,
+          "result": "pending"
         }
       ]
     },
@@ -793,6 +839,12 @@
           "team": "UConn",
           "seed": 2,
           "result": "win"
+        },
+        {
+          "day": 9,
+          "team": "Michigan",
+          "seed": 1,
+          "result": "pending"
         }
       ]
     },
@@ -849,6 +901,12 @@
           "team": "Michigan",
           "seed": 1,
           "result": "win"
+        },
+        {
+          "day": 9,
+          "team": "UConn",
+          "seed": 2,
+          "result": "pending"
         }
       ]
     },
@@ -905,6 +963,12 @@
           "team": "Michigan",
           "seed": 1,
           "result": "win"
+        },
+        {
+          "day": 9,
+          "team": "Arizona",
+          "seed": 1,
+          "result": "pending"
         }
       ]
     },
@@ -961,6 +1025,12 @@
           "team": "UConn",
           "seed": 2,
           "result": "win"
+        },
+        {
+          "day": 9,
+          "team": "Michigan",
+          "seed": 1,
+          "result": "pending"
         }
       ]
     },
@@ -1017,6 +1087,12 @@
           "team": "Michigan",
           "seed": 1,
           "result": "win"
+        },
+        {
+          "day": 9,
+          "team": "Arizona",
+          "seed": 1,
+          "result": "pending"
         }
       ]
     },
